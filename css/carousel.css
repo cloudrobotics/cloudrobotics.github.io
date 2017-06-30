@@ -9,7 +9,6 @@ body {
   padding-top: 70px;
   padding-bottom: 3rem;
   color: #5a5a5a;
-  text-align: center;
 }
 
 
@@ -88,10 +87,6 @@ body {
   letter-spacing: -.05rem;
 }
 
-.navbar-brand{
-  font-family: "fontawesome"
-}
-
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -110,9 +105,25 @@ body {
 
 @media (min-width: 62em) {
   .container,
-  .fixed-top{
+  .navbar{
     width: 62rem;
     margin-left: auto;
     margin-right: auto;
   }
 }
+
+.navbar-brand {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+}
+
+/*.header {
+  background: url(https://s29.postimg.org/501kwpx7r/334c68c298e6eb06bab3bf4876bea89c.jpg) repeat;
+  width: 100%;
+  height: 500px;
+  background-color: #060;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, .5);
+}*/

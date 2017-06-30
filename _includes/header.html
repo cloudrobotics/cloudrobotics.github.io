@@ -1,7 +1,9 @@
 <!--<header class="site-header" role="banner">-->
 
-{% assign custom_url = site.url | append: site.baseurl %} {% assign full_base_url = custom_url %}
-<div class="container">
+{% assign custom_url = site.url | append: site.baseurl %}
+{% assign full_base_url = custom_url %}
+
+<div class="container header">
   <nav class="navbar navbar-toggleable-md navbar-light fixed-top bg-faded">
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
@@ -10,18 +12,59 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="{{ site.url }}">Home <span class="sr-only">(current)</span></a>
         </li>
-        <li class="nav-item dropdown">
+        <li class="nav-item">
+          <a class="nav-link
+          {% if page.url == '/iccr2017/calls.html' %}
+            active
+          {% else %}
+          {% endif %}
+          " href="{{ site.url }}/iccr2017/calls">Calls</a>
+        </li>
+        <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Calls</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <a class="dropdown-item" href="#">Action</a>
             <a class="dropdown-item" href="#">Another action</a>
             <a class="dropdown-item" href="#">Something else here</a>
           </div>
+        </li> -->
+        <li class="nav-item">
+          <a class="nav-link
+          {% if page.url == '/iccr2017/committees.html' %}
+            active
+          {% else %}
+          {% endif %}
+          " href="{{ site.url }}/iccr2017/committees">Committees</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ site.url }}/iccr2016">ICCR2016</a>
+          <a class="nav-link" href="{{ site.url }}/comingsoon">Keynote</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.url }}/comingsoon">Registration</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.url }}/comingsoon">Robonumerique</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.url }}/comingsoon">Sponsor</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link
+          {% if page.url == '/contact.html' %}
+            active
+          {% else %}
+          {% endif %}
+          " href="{{ site.url }}/contact">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link
+          {% if page.url contains 'iccr2016' %}
+            active
+          {% else %}
+          {% endif %}
+          " href="{{ site.url }}/iccr2016">ICCR2016</a>
         </li>
       </ul>
     </div>
