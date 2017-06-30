@@ -19,6 +19,7 @@ description: Internation Conference on Cloud and Robotics, Nov. 22-23, Saint Que
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: iccr
+author: yulin.zhang@u-picardie.fr
 
 # Build settings
 markdown: kramdown

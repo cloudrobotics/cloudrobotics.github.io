@@ -1,43 +1,32 @@
 ---
-layout: default
+layout: iccr2016
 title: Call For Papers
 ---
 
----
----
-The 3th edition of the International Conference on Cloud and Robotics (ICCR 2017 - http://cloudrobotics.info) will be held on November 22-23 2017 in Saint-Quentin, France. The conference is co-located with the industry exposition Robonumerique (http://www.robonumerique.fr).
+>
 
-The domain of cloud robotics aims to converge robots with computation, storage and communication resources provided by the cloud. The cloud may complement robotic resources in several ways, including crowd-sourcing knowledge databases, context information, computational offloading or data-intensive information processing for artificial intelligence. As the challenges in this domain are multi-disciplinary, the session aims at building a bridge between experts from academia and industry working in different fields, such as roboticists, machine learning, artificial intelligence, software architecture, big data analytics, Internet-of-Things and distributed cloud systems.
+ICCR is the premier gathering of practitioners and researchers interested in how to apply Cloud computing in robotics. The objective of ICCR is a working conference, where togethers Cloud computing and robotics researchers and where discusses how Cloud computing applies and changes robotics and so influences the future of robotics. Different with traditional academic conference, ICCR is also a forum for researchers and practitioners in the two disciplines, fostering the collaboration of Cloud computing with robotics, and for practitioners to show their working projects and to discuss and exchange their problems with researchers to find a solution.
 
-The conference is organizing two special sessions: one on the integration of Internet-of-Things with robots (leading to the so-called Internet of Robotic Things), as well as one industry session.
+Cloud robotics is a field of robotics that attempts to invoke Cloud technologies such as Cloud computing, Cloud storage, and other Internet technologies centered around the benefits of converged infrastructure and shared services for robotics. In a few short years, Cloud robotics as a newly emerged field has already received much research and industrial attention. The use of the Cloud for robotics and automation brings some potential benefits largely ameliorating the performance of robotic systems.
 
----
-## Topics
+## Topics of interest include, but are not necessarily limited to :
 
-Topics of interest include, but are not necessarily limited to:
+- Cloud computing for robots
+- Web services for robots
+- Telerobotics
+- Architecture of Cloud robotic systems
+- Cloud robotics design
+- DSL for Cloud robotics
+- Software engineering for robotics
 
-- Architectures and middleware solutions for cyber-physical systems, integrating the IoT, the cloud/edge with robots and other actuators
-- Distributed sensing, planning and actuation
-- Cloud-based control systems, possibly using deterministic wireless or wired networking
-- Domain Specific Languages for cloud robotics and cyber-physical systems
-- Software engineering practices for networked robots
-- Tele-robotic systems
-- Computational offloading and load balancing in robotics
-- Multi-robot coordination and orchestration
-- Self-adaptive cyber-physical and robotic systems
-- Cloud-supported collective knowledge and parameter sharing between actuation systems
-- Sensor fusion for improved control policies
-- Transfer learning between tasks or across robotic systems
-- Hands-on experiences and use cases in the fields of manufacturing, Industry 4.0, healthcare, active assisted living, logistics and transportation, security and surveillance, precision agriculture and others.
+## Types of submissions
 
----
-## Submission
+Papers should describe results of theoretical, empirical, conceptual, or experimental research and industrial practice in Cloud computing, Web services or Robotics.
 
-Three categories of submissions are sollicited:
+- Full papers are limited to 6 proceedings pages. We especially welcome submissions of papers addressing practical evaluation and industrial application, as well as innovative approaches and ideas discussing emerging challenges.
+- Short papers are limited to 4 proceedings pages, (i.e., a position paper describing specific questions and issues that the participants feel should be addressed; a demo paper describing a demonstration; a technical communication aimed at describing recent developments, and new projects that are not ready for publication as regular papers).
+- Published papers will be accepted for discussion, but not be included in proceeding.
 
-* full papers, presenting research results, limited to 6 pages in 2-column conference paper format
-* application papers, presenting lessons learnt during practical field trials and/or with commercial applications in the domain of cloud robotics and cyber-physical systems
-* presentations, expressing industry viewpoints and requirements that may help in shaping future research agenda. Prospective presenters should submit a short abstract describing the content of their presentation
+## Formatting and Submission Instructions
 
----
-## Deadlines
+All papers must conform, at time of submission, to the IEEE Formatting Guidelines, use the letter page format, and be submitted electronically through the Easychair Online Submission Site by choosing academic or student topic.

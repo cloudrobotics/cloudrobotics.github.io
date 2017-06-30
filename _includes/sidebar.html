@@ -1,25 +1,62 @@
 <div class="col-sm-3 col-xs-1 sidebar-offcanvas" id="sidebar">
+    <br/>
+    <h5>ICCR2016</h5>
   <ul class="nav nav-pills flex-column">
     <li class="nav-item">
-      <a class="nav-link active" href="{{ site.url }}/iccr2016">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-link
+      {% if page.url == '/iccr2016/' %}
+        active
+      {% else %}
+      {% endif %}
+      " href="{{ site.url }}/iccr2016">Home <span class="sr-only">(current)</span></a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="{{ site.url }}/iccr2016">Calls</a>
+      <a class="nav-link
+      {% if page.url == '/iccr2016/calls.html' %}
+        active
+      {% else %}
+      {% endif %}
+      " href="{{ site.url }}/iccr2016/calls">Calls</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="{{ site.url }}/iccr2016/committees">Committees</a>
+      <a class="nav-link
+      {% if page.url == '/iccr2016/committees.html' %}
+        active
+      {% else %}
+      {% endif %}
+      " href="{{ site.url }}/iccr2016/committees">Committees</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Keynote</a>
+      <a class="nav-link
+      {% if page.url == '/iccr2016/keynote.html' %}
+        active
+      {% else %}
+      {% endif %}
+      " href="{{ site.url }}/iccr2016/keynote">Keynote</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Proceeding</a>
+      <a class="nav-link
+      {% if page.url == '/iccr2016/proceeding.html' %}
+        active
+      {% else %}
+      {% endif %}
+      " href="{{ site.url }}/iccr2016/proceeding">Proceedings</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Sponsor</a>
+      <a class="nav-link
+      {% if page.url == '/iccr2016/sponsor.html' %}
+        active
+      {% else %}
+      {% endif %}
+      " href="{{ site.url }}/iccr2016/sponsor">Sponsors</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Photos</a>
+      <a class="nav-link
+      {% if page.url == '/iccr2016/photo.html' %}
+        active
+      {% else %}
+      {% endif %}
+      " href="{{ site.url }}/iccr2016/photo">Photos</a>
     </li>
   </ul>
 </div>

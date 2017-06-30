@@ -43,7 +43,7 @@ Three categories of submissions are sollicited:
 
 ## Formatting and Submission Instructions
 
-All papers must conform, at time of submission, to the [IEEE Formatting Guidelines](http://www.ieee.org/conferences_events/conferences/publishing/templates.html) use the letter page format, and be submitted electronically through the Easychair Online Submission Site by choosing academic or student topic.
+All papers must conform, at time of submission, to the [IEEE Formatting Guidelines](http://www.ieee.org/conferences_events/conferences/publishing/templates.html) use the letter page format, and be submitted electronically through the [Easychair Online Submission]https://easychair.org/conferences/?conf=iccr17） Site by choosing academic or student topic.
 
 ---
 

@@ -11,4 +11,8 @@ Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
 
 ## Program Chair
 
-Pieter
+Pieter Simoens, Assistant Professor in iMind, Ghent University, Belgium
+
+## Local Chair
+
+Lei ZHANG, Northeastern University, China
