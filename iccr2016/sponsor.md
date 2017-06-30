@@ -9,32 +9,32 @@ title: Sponsors
 
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
-                    <img class="img-thumbnail" src="{{ site.url }}/images/logo/upjv.png" alt="">
+                    <img class="img-thumbnail" src="/images/logo/upjv.png" alt="">
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
-                    <img class="img-thumbnail" src="{{ site.url }}/images/logo/neu.jpg" alt="">
+                    <img class="img-thumbnail" src="/images/logo/neu.jpg" alt="">
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
-                    <img class="img-thumbnail" src="{{ site.url }}/images/logo/nordfrance.jpg" alt="">
+                    <img class="img-thumbnail" src="/images/logo/nordfrance.jpg" alt="">
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
-                    <img class="img-thumbnail" src="{{ site.url }}/images/logo/stquentin.png" alt="">
+                    <img class="img-thumbnail" src="/images/logo/stquentin.png" alt="">
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
-                    <img class="img-thumbnail" src="{{ site.url }}/images/logo/stquentinagglo.jpg" alt="">
+                    <img class="img-thumbnail" src="/images/logo/stquentinagglo.jpg" alt="">
                 </a>
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
-                    <img class="img-thumbnail" src="{{ site.url }}/images/logo/mis.jpg" alt="">
+                    <img class="img-thumbnail" src="/images/logo/mis.jpg" alt="">
                 </a>
             </div>
         </div>
