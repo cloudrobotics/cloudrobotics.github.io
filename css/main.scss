@@ -3,7 +3,7 @@
 ---
 @charset 'utf-8';
 @import 'custom'; // variables for bootstrap
-@import 'bootstrap';
+@import 'bootstrap.min.css';
 
 $z-index-navbar: 10;
 $footer-height: 60px;
