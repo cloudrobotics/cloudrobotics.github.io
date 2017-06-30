@@ -1,0 +1,40 @@
+// Bootstrap overrides
+//
+// Copy variables from `_variables.scss` to this file to override default values
+// without modifying source files.
+
+// See https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss
+
+// Colours
+
+// Uncomment and customise as required
+// $brand-primary:             #f7df1e;
+
+// Options
+
+$enable-flex:               true;
+$enable-rounded:            false;
+$enable-shadows:            false;
+$enable-gradients:          false;
+$enable-transitions:        true;
+
+// Typography
+
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-base:       $font-family-sans-serif;
+
+// Colors
+//
+// Grayscale and brand colors for use across Bootstrap.
+
+// Start with assigning color names to specific hex values.
+$white:  #fff !default;
+$black:  #000 !default;
+$red:    #d9534f !default;
+$orange: #f0ad4e !default;
+$yellow: #ffd500 !default;
+$green:  #5cb85c !default;
+$blue:   #0275d8 !default;
+$teal:   #5bc0de !default;
+$pink:   #ff5b77 !default;
+$purple: #613d7c !default;
