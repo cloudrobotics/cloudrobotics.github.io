@@ -51,6 +51,6 @@ All papers must conform, at time of submission, to the [IEEE Formatting Guidelin
 
 Full paper submission deadline: October 10, 2016
 
-Author notification: October 17, 2016
+Author notification: October 24, 2016
 
-Camera ready: October 25, 2016
+Camera ready: October 31, 2016
