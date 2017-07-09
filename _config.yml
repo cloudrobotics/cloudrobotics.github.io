@@ -18,7 +18,7 @@ email: contact.cloudrobotics@gmail.com
 description: Internation Conference on Cloud and Robotics, Nov. 22-23, Saint Quentin, France
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cloudrobotics.github.io" # the base hostname & protocol for your site
-twitter_username: iccr
+twitter_username: ICCRconf
 author: yulin.zhang@u-picardie.fr
 
 # Build settings
