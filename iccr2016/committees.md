@@ -66,5 +66,3 @@ Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
 Lei Zhang, Northeastern University, China
 
 Cezary Zielinski, Warsaw University of Technology, Poland
-
-Developped by EuroDAO, UPJV and NEU
