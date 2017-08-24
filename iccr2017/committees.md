@@ -52,6 +52,8 @@ Pieter	Simoens,	Ghent University - imec, Belgium
 
 Olivier Simonin, INSA Lyon, France
 
+Lei Zhang, Northeastern University, China
+
 Huaxi Yulin	Zhang, Université de Picardie Jules Verne, France
 
 Cezary	Zielinski,	Warsaw University of Technology, Poland
