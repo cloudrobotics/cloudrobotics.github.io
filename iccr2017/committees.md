@@ -50,6 +50,8 @@ Luis	Riazuelo,	Universidad de Zaragoza, Spain
 
 Pieter	Simoens,	Ghent University - imec, Belgium
 
+Olivier Simonin, INSA Lyon, France
+
 Huaxi Yulin	Zhang, Université de Picardie Jules Verne, France
 
 Cezary	Zielinski,	Warsaw University of Technology, Poland
