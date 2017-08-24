@@ -38,6 +38,8 @@ Filippo	Cavallo, The BioRobotics Institute, Italy
 
 Javier	Civera,	Universidad de Zaragoza, Spain
 
+Liming Chen, INSA Lyon, France
+
 Mauro	Dragone,	Heriot-Watt University, UK
 
 Uwe	Haass,	Roboconsult, Germany
