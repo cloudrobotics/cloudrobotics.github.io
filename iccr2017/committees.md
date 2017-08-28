@@ -46,6 +46,8 @@ Uwe	Haass,	Roboconsult, Germany
 
 Marianne	Huchard, LIRMM, Université Montpellier 2 et CNRS, France
 
+Ben Kehoe, iRobot, USA
+
 Jacques	Malenfant, Université Pierre et Marie Curie-Paris 6, CNRS, UMR 7606 LIP6, France
 
 Luis	Riazuelo,	Universidad de Zaragoza, Spain
