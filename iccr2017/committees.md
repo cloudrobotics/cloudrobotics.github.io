@@ -17,6 +17,7 @@ Pieter Simoens, Assistant Professor in iMind, Ghent University, Belgium
 ## Local Chair
 
 Lei ZHANG, Northeastern University, China
+
 Margot Burident, University of Picardie Jules Verne, France
 
 ## Steering Committee
