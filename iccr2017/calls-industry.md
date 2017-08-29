@@ -7,17 +7,18 @@ title: Call for Industrial Presentations
 
 The 4th edition of the International Conference on Cloud and Robotics (ICCR 2017 - http://cloudrobotics.info) will be held on November 22-23 2017 in Saint-Quentin, France. The conference is co-located with the industry exposition Robonumerique (http://www.robonumerique.fr).
 
-The domain of cloud robotics aims to converge robots with computation, storage and communication resources provided by the cloud. The cloud may complement robotic resources in several ways, including crowd-sourcing knowledge databases, context information, computational offloading or data-intensive information processing for artificial intelligence. As the challenges in this domain are multi-disciplinary, the session aims at building a bridge between experts from academia and industry working in different fields, such as roboticists, machine learning, artificial intelligence, software architecture, big data analytics, Internet-of-Things and distributed cloud systems.
+The domain of cloud robotics aims to converge robots with computation, storage and communication resources provided by the cloud. The cloud may complement robotic resources in several ways, including crowd-sourcing knowledge databases, context information, computational offloading or data-intensive information processing for artificial intelligence. As the challenges in this domain are multi-disciplinary, the session aims at building a bridge between experts from academia and industry working in different fields, such as robotics, machine learning, artificial intelligence, software architecture, big data analytics, Internet-of-Things and distributed cloud systems.
 
 The conference is organizing two special sessions: one on the integration of Internet-of-Things with robots (leading to the so-called Internet of Robotic Things), as well as one industry session.
 
 ---
 
-## Industry section
+## Industry Session
 
 The ICCR 2017 Conference is your opportunity to gain visibility for your technologies and research, and to advertise them to the best researchers and students in the field. The goal of industry talks is to highlight state-of-the-art developments, taking the audience behind the scenes to present new ideas that are still in progress or to demonstrate how robotics techniques are actually implemented and used. Industry contributors in robotics-related fields are invited to submit presentations in the following non restrictive list of areas:
 
 - Architectures and middleware solutions for cyber-physical systems, integrating the IoT, the cloud/edge with robots and other actuators
+- Autonomous weeding & agricultural robots
 - Distributed sensing, planning and actuation
 - Cloud-based control systems, possibly using deterministic wireless or wired networking
 - Domain Specific Languages for cloud robotics and cyber-physical systems
