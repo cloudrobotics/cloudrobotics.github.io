@@ -1,3 +1,8 @@
+---
+layout: iccr2017
+title: Sponsors
+---
+
 <div class="container">
 
         <div class="row">
