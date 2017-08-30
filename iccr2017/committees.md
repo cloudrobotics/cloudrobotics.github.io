@@ -20,18 +20,6 @@ Lei ZHANG, Northeastern University, China
 
 Margot Burident, University of Picardie Jules Verne, France
 
-## Steering Committee
-
-Wang Huaimin, National University of Defense Technology
-
-Marianne Huchard, Montpellier University
-
-Jacques Malenfant, Pierre and Marie Curie University
-
-Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
-
-Lei ZHANG, Northeastern University, China
-
 ## Programme Committee
 Davide	Bacciu,	University of Pisa, Italy
 
@@ -62,3 +50,15 @@ Lei Zhang, Northeastern University, China
 Huaxi Yulin	Zhang, Université de Picardie Jules Verne, France
 
 Cezary	Zielinski,	Warsaw University of Technology, Poland
+
+## Steering Committee
+
+Wang Huaimin, National University of Defense Technology
+
+Marianne Huchard, Montpellier University
+
+Jacques Malenfant, Pierre and Marie Curie University
+
+Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
+
+Lei ZHANG, Northeastern University, China
