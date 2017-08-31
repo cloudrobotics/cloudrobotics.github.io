@@ -109,6 +109,12 @@ body {
   .featurette-heading {
     font-size: 50px;
   }
+  .featurette-heading1 {
+    font-size: 40px;
+  }
+  .featurette-heading2 {
+    font-size: 30px;
+  }
 }
 
 
