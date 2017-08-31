@@ -24,5 +24,3 @@ title: Keynotes
 
 </div>
 </div>
-
-<hr class="featurette-divider">
