@@ -8,7 +8,7 @@ title: Keynotes
 <div class="row featurette">
   <div class="col-md-10">
     <h2 class="featurette-heading">Professor Jie Xu </h2>
-    <h3 class="featurette-heading">School of Computing
+    <h3 class="featurette-heading2">School of Computing
 University of Leeds, UK</h3>
   </div>
   <div class="col-md-2">
