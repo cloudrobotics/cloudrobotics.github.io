@@ -6,12 +6,12 @@ title: Keynotes
 >
 
 <div class="row featurette">
-  <div class="col-md-10">
+  <div class="col-md-7 push-md-5">
     <h2 class="featurette-heading">Professor Jie Xu </h2>
     <h3 class="featurette-heading2">School of Computing</h3>
     <h3 class="featurette-heading2">University of Leeds, UK</h3>
   </div>
-  <div class="col-md-2">
+  <div class="col-md-5 pull-md-7">
     <img class="featurette-image img-fluid mx-auto" src="/images/keynote/jieXuPhoto.jpg" alt="Prof. Jie Xu">
   </div>
 

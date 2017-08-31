@@ -86,9 +86,13 @@ body {
   line-height: 1;
   letter-spacing: -.05rem;
 }
-
-.featurette-heading2 {
+.featurette-heading1 {
   font-weight: 200;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+.featurette-heading2 {
+  font-weight: 150;
   line-height: 1;
   letter-spacing: -.05rem;
 }
