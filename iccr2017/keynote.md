@@ -16,7 +16,7 @@ title: Keynotes
   He was Professor of Distributed Systems at Durham before he joined the School of Computing at Leeds in 2003.</p>
   </div>
   <div class="col-md-2 pull-md-10">
-    <img class="featurette-image img-fluid mx-auto img-circle" src="/images/keynote/jieXuPhoto.jpg" alt="Prof. Jie Xu">
+    <img class="featurette-image img-thumbnail mx-auto" src="/images/keynote/jieXuPhoto.jpg" alt="Prof. Jie Xu">
     <p><a href="http://www.comp.leeds.ac.uk/jxu/index.html" class="btn btn-default" role="button">Webpage</a></p>
   </div>
 
