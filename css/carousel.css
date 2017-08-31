@@ -64,6 +64,12 @@ body {
   font-family: "fontawesome"
 }
 
+.marketing h3 {
+  font-weight: normal;
+  margin-top: 1rem;
+  font-family: "fontawesome"
+}
+
 .marketing .col-lg-4 p {
   margin-right: .75rem;
   margin-left: .75rem;
@@ -86,16 +92,6 @@ body {
   line-height: 1;
   letter-spacing: -.05rem;
 }
-.featurette-heading1 {
-  font-weight: 200;
-  line-height: 1;
-  letter-spacing: -.05rem;
-}
-.featurette-heading2 {
-  font-weight: 100;
-  line-height: 0.5;
-  letter-spacing: -.05rem;
-}
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -108,12 +104,6 @@ body {
   }
   .featurette-heading {
     font-size: 50px;
-  }
-  .featurette-heading1 {
-    font-size: 40px;
-  }
-  .featurette-heading2 {
-    font-size: 30px;
   }
 }
 
