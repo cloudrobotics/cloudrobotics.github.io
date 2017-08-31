@@ -13,7 +13,7 @@ He is the leader for a Research Peak of Excellence at Leeds, the director of the
 He has worked in the field of Distributed Computing Systems for over thirty years and had industrial experience in building large-scale networked computer systems. He is now leading a collaborative research team, investigating fundamental theories and models for distributed systems (e.g. the theory for fault-diagnosable and large-scale distributed systems, and the formalisation for dynamic multi-party authentication) and developing advanced Internet and Cloud technologies with a focus on complex system engineering (e.g. with Rolls-Royce and JLR), energy-efficient computing (e.g. with Google and Alibaba), dependable and secure collaboration (e.g. large-scale data processing and analysis for social science and e-healthcare applications with TPP and X-Lab Ltd), and evolving system architectures (e.g. with BAE Systems).
 He was Professor of Distributed Systems at Durham before he joined the School of Computing at Leeds in 2003.</p>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-2">
     <img class="featurette-image img-fluid mx-auto" src="/images/keynote/jieXuPhoto.jpg" alt="Prof. Jie Xu">
   </div>
 </div>
