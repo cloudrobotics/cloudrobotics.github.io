@@ -5,6 +5,8 @@ title: Keynotes
 
 >
 
+<div class="container marketing">
+
 <div class="row featurette">
   <div class="col-md-10 push-md-3">
     <h2 class="featurette-heading1">Professor Jie Xu </h2>
@@ -20,7 +22,7 @@ title: Keynotes
   </div>
 
 
-
+</div>
 </div>
 
 <hr class="featurette-divider">
