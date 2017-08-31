@@ -5,12 +5,17 @@ title: Keynotes
 
 >
 
-The 4th edition of the International Conference on Cloud and Robotics (ICCR 2017 - http://cloudrobotics.info) will be held on November 22-23 2017 in Saint-Quentin, France. The conference is co-located with the industry exposition Robonumerique (http://www.robonumerique.fr).
+<div class="row featurette">
+  <div class="col-md-7">
+    <h2 class="featurette-heading">Professor Jie Xu </h2>
+    <p class="lead">
+He is the leader for a Research Peak of Excellence at Leeds, the director of the EPSRC-funded White Rose Grid e-Science Centre (2002 - 2014) involving the three White Rose Universities of Leeds, Sheffield and York, and the head of the Institute for Computational and Systems Science at Leeds.
+He has worked in the field of Distributed Computing Systems for over thirty years and had industrial experience in building large-scale networked computer systems. He is now leading a collaborative research team, investigating fundamental theories and models for distributed systems (e.g. the theory for fault-diagnosable and large-scale distributed systems, and the formalisation for dynamic multi-party authentication) and developing advanced Internet and Cloud technologies with a focus on complex system engineering (e.g. with Rolls-Royce and JLR), energy-efficient computing (e.g. with Google and Alibaba), dependable and secure collaboration (e.g. large-scale data processing and analysis for social science and e-healthcare applications with TPP and X-Lab Ltd), and evolving system architectures (e.g. with BAE Systems).
+He was Professor of Distributed Systems at Durham before he joined the School of Computing at Leeds in 2003.</p>
+  </div>
+  <div class="col-md-5">
+    <img class="featurette-image img-fluid mx-auto" src="/images/keynote/jieXuPhoto.jpg" alt="Prof. Jie Xu">
+  </div>
+</div>
 
-The domain of cloud robotics aims to converge robots with computation, storage and communication resources provided by the cloud. The cloud may complement robotic resources in several ways, including crowd-sourcing knowledge databases, context information, computational offloading or data-intensive information processing for artificial intelligence. As the challenges in this domain are multi-disciplinary, the session aims at building a bridge between experts from academia and industry working in different fields, such as robotics, machine learning, artificial intelligence, software architecture, big data analytics, Internet-of-Things and distributed cloud systems.
-
-The conference is organizing two special sessions: one on the integration of Internet-of-Things with robots (leading to the so-called Internet of Robotic Things), as well as one industry session.
-
----
-
-## Topics
+<hr class="featurette-divider">
