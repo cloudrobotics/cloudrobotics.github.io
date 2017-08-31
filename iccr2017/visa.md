@@ -6,7 +6,7 @@ title: Visa Information
 
 It is the delegate’s responsibility to investigate the visa requirements for France and apply for a visa, if necessary.
 
-Delegates are recommended to apply for their visa, if required, by 15 May 2017, to ensure adequate processing time.
+Delegates are recommended to apply for their visa, if required, by 15 November 2017, to ensure adequate processing time.
 
 ## General information about visas for France
  Short-stay visas may be required for travellers who are not nationals of France or certain visa-exempt countries. This visa allows a person to visit France on a temporary basis for tourism or business purposes for a period of 90 days or less. It must be applied for from the relevant French embassy or consulate in the delegate’s country of residence.
