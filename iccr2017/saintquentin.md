@@ -80,9 +80,7 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
      </a>
    </div>
  </div>
-
 </div>
+<!-- Situated in the very heart of Saint-Quentin in Picardy, the Marais d’Isle nature reserve stretches over some 48 hectares. Located in an urban environment, it is the only nature reserve of this kind in France.
 
-Situated in the very heart of Saint-Quentin in Picardy, the Marais d’Isle nature reserve stretches over some 48 hectares. Located in an urban environment, it is the only nature reserve of this kind in France.
-
-Just under 160 species of birds have been observed on the site situated on a major migration route. You can often see the Eurasian teal, the Sedge warbler, the Common pochard, Great crested grebes and Little grebes. The Marais d’Isle is also well-known thanks to attracting certain rarer nesting species such as the Western marsh harrier, the Bluethroat, the Eurasian bittern, the Little bittern and Savi’s warbler.
+Just under 160 species of birds have been observed on the site situated on a major migration route. You can often see the Eurasian teal, the Sedge warbler, the Common pochard, Great crested grebes and Little grebes. The Marais d’Isle is also well-known thanks to attracting certain rarer nesting species such as the Western marsh harrier, the Bluethroat, the Eurasian bittern, the Little bittern and Savi’s warbler. -->
