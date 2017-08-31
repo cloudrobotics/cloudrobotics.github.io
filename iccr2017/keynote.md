@@ -6,7 +6,7 @@ title: Keynotes
 >
 
 <div class="row featurette">
-  <div class="col-md-7">
+  <div class="col-md-10">
     <h2 class="featurette-heading">Professor Jie Xu </h2>
     <p class="lead">
 He is the leader for a Research Peak of Excellence at Leeds, the director of the EPSRC-funded White Rose Grid e-Science Centre (2002 - 2014) involving the three White Rose Universities of Leeds, Sheffield and York, and the head of the Institute for Computational and Systems Science at Leeds.
