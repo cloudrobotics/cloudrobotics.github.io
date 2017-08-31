@@ -17,6 +17,7 @@ title: Keynotes
   </div>
   <div class="col-md-2 pull-md-10">
     <img class="featurette-image img-fluid mx-auto" src="/images/keynote/jieXuPhoto.jpg" alt="Prof. Jie Xu">
+    <p><a href="http://www.comp.leeds.ac.uk/jxu/index.html" class="btn btn-primary" role="button">Webpage</a></p>
   </div>
 
 
