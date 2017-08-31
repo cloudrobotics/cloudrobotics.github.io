@@ -12,6 +12,7 @@ The domain of cloud robotics aims to converge robots with computation, storage a
 The conference is organizing two special sessions: one on the integration of Internet-of-Things with robots (leading to the so-called Internet of Robotic Things), as well as one industry session.
 
 ---
+
 ## Topics
 
 Topics of interest include, but are not necessarily limited to:
