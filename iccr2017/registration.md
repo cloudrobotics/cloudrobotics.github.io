@@ -2,7 +2,8 @@
 layout: iccr2017
 title: Registration
 ---
-For registration, please contact the conference organizers by emailing <a href="mailto:cloudrobotics.iccr@gmail.com">cloudrobotics.iccr@gmail.com</a>.
+
+-> For the registration, please contact the conference organizers by emailing <a href="mailto:cloudrobotics.iccr@gmail.com">cloudrobotics.iccr@gmail.com</a>. -<
 
 <section>
         <div class="col-centered col-lg-12">
