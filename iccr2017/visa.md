@@ -43,4 +43,4 @@ If you require a visa, we advise you to obtain and submit an official Letter of 
 
 You can request a Letter of Invitation here.
 
-If you have specific questions, please email cloudrobotics.iccr@gmail.com.
+If you have specific questions, please email <a href="mailto:cloudrobotics.iccr@gmail.com">cloudrobotics.iccr@gmail.com</a>.
