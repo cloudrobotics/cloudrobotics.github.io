@@ -80,6 +80,16 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
      </a>
    </div>
  </div>
+ <div class="col-md-4">
+   <div class="thumbnail">
+     <a href="/images/sq/parc.jpg">
+       <img src="/images/sq/parc.jpg" alt="parc" style="width:100%">
+       <!-- <div class="caption">
+         <p>Nature reserve park</p>
+       </div> -->
+     </a>
+   </div>
+ </div>
 </div>
 <!-- Situated in the very heart of Saint-Quentin in Picardy, the Marais d’Isle nature reserve stretches over some 48 hectares. Located in an urban environment, it is the only nature reserve of this kind in France.
 
