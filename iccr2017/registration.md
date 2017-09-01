@@ -31,7 +31,7 @@ For the registration, please contact the conference organizers by emailing <a hr
                       <span class="symbol">€</span>100</h3>
                     <h4>Full Price</h4>
                   </div>
-                  <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a>
+                  <!-- <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a> -->
                 </div>
               </div>
 
@@ -56,7 +56,7 @@ For the registration, please contact the conference organizers by emailing <a hr
                     <span class="symbol">€</span>160</h3>
                   <h4>Full Price</h4>
                   </div>
-                  <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a>
+                  <!-- <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a> -->
                 </div>
               </div>
               <div class="col-sm-12 col-md-3 col-lg-3">
@@ -80,7 +80,7 @@ For the registration, please contact the conference organizers by emailing <a hr
                     <span class="symbol">€</span>250</h3>
                   <h4>Full Price</h4>
                   </div>
-                  <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a>
+                  <!-- <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a> -->
                 </div>
               </div>
               <div class="col-sm-12 col-md-3 col-lg-3">
@@ -104,7 +104,7 @@ For the registration, please contact the conference organizers by emailing <a hr
                     <span class="symbol">€</span>400</h3>
                   <h4>Full Price</h4>
                   </div>
-                  <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a>
+                  <!-- <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a> -->
                 </div>
               </div>
             </div>
