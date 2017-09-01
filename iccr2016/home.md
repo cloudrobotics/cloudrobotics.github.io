@@ -140,7 +140,7 @@ Five papers were accepted at the workshop. All
             </div>
             <div class="col-lg-6 col-md-8 col-xs-10 thumb">
                 <a class="thumbnail" href="#">
-                    <img class="img-thumbnail" src="/images/photos/13.jpg" alt="">
+                    <img class="img-thumbnail" src="/images/photos/15.jpg" alt="">
                 </a>
             </div>
             <div class="col-lg-6 col-md-8 col-xs-10 thumb">
@@ -205,7 +205,7 @@ Five papers were accepted at the workshop. All
             </div>
             <div class="col-lg-6 col-md-8 col-xs-10 thumb">
                 <a class="thumbnail" href="#">
-                    <img class="img-thumbnail" src="/images/photos/15.jpg" alt="">
+                    <img class="img-thumbnail" src="/images/photos/2.jpg" alt="">
                 </a>
             </div>
         </div>
