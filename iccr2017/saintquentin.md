@@ -72,8 +72,8 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
  </div>
  <div class="col-md-4">
    <div class="thumbnail">
-     <a href="/images/sq/hotelville.jpg">
-       <img src="/images/sq/hotelville.jpg" alt="hoteldeville" style="width:100%">
+     <a href="/images/sq/hotelville1.jpg">
+       <img src="/images/sq/hotelville1.jpg" alt="hoteldeville" style="width:100%">
        <!-- <div class="caption">
          <p>Nature reserve park</p>
        </div> -->

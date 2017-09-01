@@ -16,4 +16,4 @@ Sponsorship Inquiries
 
 Yulin ZHANG
 
-cloudrobotics.iccr@gmail.com
+<a href="mailto:cloudrobotics.iccr@gmail.com">cloudrobotics.iccr@gmail.com</a>.
