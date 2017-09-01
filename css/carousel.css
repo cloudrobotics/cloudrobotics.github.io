@@ -164,3 +164,7 @@ body {
 .thumb {
     margin-bottom: 30px;
 }
+
+.card-img-top {
+    width: 100%;
+}
