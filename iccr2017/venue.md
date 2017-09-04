@@ -14,17 +14,17 @@ title: Venue
 
 <div class="row">
     <div class="col-md-6">
-The November 22, the conference will be hosted at the Palais des Sports Pierre Ratte, Saint Quentin.
+The conference will be hosted at the <<Palais des Sports Pierre Ratte>>, Saint Quentin.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2572.6529394862173!2d3.292005915709706!3d49.84897837939687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e8188086c4ffe1%3A0x5fde11bc19e37f1a!2sPalais+des+Sports+Pierre+Ratte!5e0!3m2!1sen!2sfr!4v1504272766987" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 </div>
-    <div class="col-md-6">
+    <!-- <div class="col-md-6">
 The November 23, the conference will be hosted at INSSET, University of Picardie Jules Verne, Saint Quentin.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2573.303272355455!2d3.2980757157092704!3d49.83675887939546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dd477555b8cd6b%3A0x3b86cc0cb5acd0a0!2sINSSET+-+Advanced+Institute+of+Science+and+Technology!5e0!3m2!1sen!2sfr!4v1504272902258" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
-</div>
+</div> -->
 
 ---
 
