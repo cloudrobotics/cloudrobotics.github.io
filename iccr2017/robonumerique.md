@@ -4,7 +4,7 @@ title: Robonumerique
 ---
 
 <div class="card">
-  <img class="card-img" src="/images/rn/ROBO-6696.jpg" alt="Card image">
+  <img class="card-img img-fluid" src="/images/rn/ROBO-6696.jpg" alt="Card image">
   <div class="card-block">
     <h1 class="card-title" align="center">International robotics exhibition</h1>
     <h3 class="card-title" align="center">Nov. 22 Saint Quentin, France</h3>
