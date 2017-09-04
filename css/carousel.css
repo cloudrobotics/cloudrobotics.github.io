@@ -310,3 +310,7 @@ p.more {
 	z-index: 1;
 	padding: 3px 15px;
 }
+
+.thumbnail .caption{
+  text-align: center;
+}

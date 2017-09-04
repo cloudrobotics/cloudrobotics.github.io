@@ -7,7 +7,7 @@ title: Contact
 
 Standard : (+33) 3 23 50 36 90. (+86) 159 409 160 03.
 
-Email: cloudrobotics.iccr@gmail.com.
+Email: <a href="mailto:cloudrobotics.iccr@gmail.com">cloudrobotics.iccr@gmail.com</a>.
 
 ---
 

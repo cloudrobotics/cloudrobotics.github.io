@@ -34,9 +34,9 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
    <div class="thumbnail">
      <a href="/images/sq/bird1.jpg">
        <img src="/images/sq/bird1.jpg" alt="Nature reserve park" style="width:100%">
-       <!-- <div class="caption">
-         <p>Nature reserve park</p>
-       </div> -->
+       <div class="caption">
+         <h3>Nature reserve park</h3>
+       </div>
      </a>
    </div>
  </div>
@@ -44,9 +44,9 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
    <div class="thumbnail">
      <a href="/images/sq/basilique.jpg">
        <img src="/images/sq/basilique.jpg" alt="basilique" style="width:100%">
-       <!-- <div class="caption">
-         <p>Nature reserve park</p>
-       </div> -->
+       <div class="caption">
+         <h3>Cathedral</h3>
+       </div>
      </a>
    </div>
  </div>
@@ -54,9 +54,9 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
    <div class="thumbnail">
      <a href="/images/sq/musee-papillon-saint-quentin.jpg">
        <img src="/images/sq/musee-papillon-saint-quentin.jpg" alt="musee-papillon-saint-quentin" style="width:100%">
-       <!-- <div class="caption">
-         <p>Nature reserve park</p>
-       </div> -->
+       <div class="caption">
+         <h3>Butterfly Museum</h3>
+       </div>
      </a>
    </div>
  </div>
@@ -64,9 +64,9 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
    <div class="thumbnail">
      <a href="/images/sq/Autoportrait_de_La_Tour.jpg">
        <img src="/images/sq/Autoportrait_de_La_Tour.jpg" alt="Autoportrait_de_La_Tour" style="width:100%">
-       <!-- <div class="caption">
-         <p>Nature reserve park</p>
-       </div> -->
+       <div class="caption">
+         <h3>Quentin de la Tour</h3>
+       </div>
      </a>
    </div>
  </div>
@@ -74,9 +74,9 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
    <div class="thumbnail">
      <a href="/images/sq/hotelville1.jpg">
        <img src="/images/sq/hotelville1.jpg" alt="hoteldeville" style="width:100%">
-       <!-- <div class="caption">
-         <p>Nature reserve park</p>
-       </div> -->
+       <div class="caption">
+         <h3>City Hall</h3>
+       </div>
      </a>
    </div>
  </div>
@@ -84,9 +84,9 @@ Making the most of its mechanical engineering industry, Saint-Quentin is develop
    <div class="thumbnail">
      <a href="/images/sq/parc.jpg">
        <img src="/images/sq/parc.jpg" alt="parc" style="width:100%">
-       <!-- <div class="caption">
-         <p>Nature reserve park</p>
-       </div> -->
+       <div class="caption">
+         <h3>Nature reserve park</h3>
+       </div>
      </a>
    </div>
  </div>

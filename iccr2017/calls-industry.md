@@ -20,11 +20,11 @@ Topics should align with the theme of the conference, namely cyber-physical syst
 ---
 ## Submission
 
-We seek technical presentations rather than marketing-oriented talks. The duration of the presentation can be either 20 or 45 min. Submissions should be sent through the EasyChair online submission tool. https://easychair.org/conferences/?conf=iccr17
+We seek technical presentations rather than marketing-oriented talks. The duration of the presentation can be either 20 or 45 min. Submissions should be sent through the [EasyChair online submission tool](https://easychair.org/conferences/?conf=iccr17).
 
 Note that these presentations are not considered archival publications and are compatible with future submission of peer-reviewed publications.
 
 The deadline for submission is October 23, 2017.
 Notifications of acceptance will be circulated by October 30, 2017.
 
-For further information please contact the chairs at cloudrobotics.iccr@gmail.com or pieter.simoens@ugent.be
+For further information please contact the chairs at cloudrobotics.iccr@gmail.com or pieter.simoens@ugent.be.
