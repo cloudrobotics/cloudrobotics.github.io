@@ -5,7 +5,7 @@ title: Registration
 
 For the registration, please contact the conference organizers by emailing <a href="mailto:cloudrobotics.iccr@gmail.com">cloudrobotics.iccr@gmail.com</a>.
 
-The early bird deadline is 07 November.
+Early bird registration deadline is 07 November.
 
 <section>
         <div class="col-centered col-lg-12">
