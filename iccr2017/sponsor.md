@@ -37,4 +37,9 @@ title: Sponsors
                     <img class="img-thumbnail" src="/images/logo/insset.png" alt="">
                 </a>
             </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
+                    <img class="img-thumbnail" src="/images/logo/eurodao.png" alt="">
+                </a>
+            </div>
         </div>
