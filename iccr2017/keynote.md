@@ -28,9 +28,9 @@ title: Keynotes
     <h3>ARSControl</h3>
     <h3>University of Modena and Reggio Emilia, Italy</h3>
     <p class="lead">
-Lorenzo Sabattini is an Assistant Professor at the Department of Sciences and Methods for Engineering, University of Modena and Reggio Emilia, Italy, since 2013. He received his B.Sc. and M.Sc. in Mechatronic Engineering from the University of Modena and Reggio Emilia (Italy) in 2005 and 2007 respectively, and his Ph.D. in Control Systems and Operational Research from the University of Bologna (Italy) in 2012. In 2010 he has been a Visiting Researcher at the University of Maryland, College Park, MD (USA). 
+Lorenzo Sabattini is an Assistant Professor at the Department of Sciences and Methods for Engineering, University of Modena and Reggio Emilia, Italy, since 2013. He received his B.Sc. and M.Sc. in Mechatronic Engineering from the University of Modena and Reggio Emilia (Italy) in 2005 and 2007 respectively, and his Ph.D. in Control Systems and Operational Research from the University of Bologna (Italy) in 2012. In 2010 he has been a Visiting Researcher at the University of Maryland, College Park, MD (USA).
      His main research interests include multi-robot systems, decentralized estimation and control control, and mobile robotics.
-     He is one of the founding co-chairs of the IEEE RAS Technical Committee on Multi-Robot Systems: he has served as the corresponding co-chair since its foundation, in 2014. He has been serving as Associate Editor for the IEEE Robotics and Automation Letters since 2015, and for IEEE Robotics and Automation Magazine since 2017.
+     He is one of the founding co-chairs of the IEEE RAS Technical Committee on Multi-Robot Systems: he has served as the corresponding co-chair since its foundation, in 2014. He has been serving as Associate Editor for the IEEE Robotics and Automation Letters since 2015, and for IEEE Robotics and Automation Magazine since 2017.</p>
      </div>
 
      <div class="col-md-2 pull-md-10">
