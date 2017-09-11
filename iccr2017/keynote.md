@@ -21,6 +21,7 @@ title: Keynotes
   </div>
 </div>
 
+<hr class="featurette-divider">
 
 <div class="row featurette">
   <div class="col-md-10 push-md-2">
@@ -39,6 +40,8 @@ Lorenzo Sabattini is an Assistant Professor at the Department of Sciences and Me
        <p><a href="http://www.arscontrol.unimore.it/site/home/people/lorenzo-sabattini.html" class="btn btn-default" role="button"><i class="fa fa-user fa-2x" aria-hidden="true"></i></a></p>
      </div>     
 </div>
+
+<hr class="featurette-divider">
 
 <div class="row featurette">
   <div class="col-md-10 push-md-2">
