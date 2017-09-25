@@ -57,8 +57,16 @@ Author notification: October 30, 2017
 
 Camera ready: November 7, 2017
 
+---
+
 ## Special issue
 A selection of the best papers will be invited to submit an extended version for a Special Issue for the Journal of Software Engineering (JOSER).
+- Architectures and middleware solutions for cyber-physical systems
+- Domain Specific Languages for cloud robotics and cyber-physical systems
+- Software engineering practices for networked robots
+- Computational offloading and load balancing in robotics
+
+---
 
 ## Student grants
 There are a limited number of travel grants available for authors of accepted papers at the conference. Applicants should send an e-mail to yulin.zhang@u-picardie.fr
