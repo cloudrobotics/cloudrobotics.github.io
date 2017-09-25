@@ -10,6 +10,7 @@ The 4th edition of the International Conference on Cloud and Robotics (ICCR 2017
 The domain of cloud robotics aims to converge robots with computation, storage and communication resources provided by the cloud. The cloud may complement robotic resources in several ways, including crowd-sourcing knowledge databases, context information, computational offloading or data-intensive information processing for artificial intelligence. As the challenges in this domain are multi-disciplinary, the session aims at building a bridge between experts from academia and industry working in different fields, such as robotics, machine learning, artificial intelligence, software architecture, big data analytics, Internet-of-Things and distributed cloud systems.
 
 The conference is organizing two special sessions: one on the integration of Internet-of-Things with robots (leading to the so-called Internet of Robotic Things), as well as one industry session.
+A selected set of papers will be published in a special issue of the Journal of Software Engineering for Robotics (http://www.joser.org).
 
 ---
 
@@ -55,3 +56,9 @@ Full paper submission deadline: October 23, 2017
 Author notification: October 30, 2017
 
 Camera ready: November 7, 2017
+
+## Special issue
+A selection of the best papers will be invited to submit an extended version for a Special Issue for the Journal of Software Engineering (JOSER).
+
+## Student grants
+There are a limited number of travel grants available for authors of accepted papers at the conference. Applicants should send an e-mail to yulin.zhang@u-picardie.fr
