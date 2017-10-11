@@ -35,7 +35,7 @@ Topics of interest include, but are not necessarily limited to:
 ---
 ## Submission
 
-Three categories of submissions are sollicited:
+Three categories of submissions are solicited:
 
 * full papers, presenting research results, limited to 6 pages in 2-column conference paper format
 * application papers (short papers 2-4 pages), presenting lessons learnt during practical field trials and/or with commercial applications in the domain of cloud robotics and cyber-physical systems
@@ -60,7 +60,7 @@ Camera ready: November 7, 2017
 ---
 
 ## Special issue
-A selection of the best papers will be invited to submit an extended version for a Special Issue for the Journal of Software Engineering (JOSER).
+A selection of the best papers will be invited to submit an extended version for a Special Issue for the Journal of Software Engineering for Robotics(JOSER).
 - Architectures and middleware solutions for cyber-physical systems
 - Domain Specific Languages for cloud robotics and cyber-physical systems
 - Software engineering practices for networked robots
@@ -69,4 +69,4 @@ A selection of the best papers will be invited to submit an extended version for
 ---
 
 ## Student grants
-There are a limited number of travel grants available for authors of accepted papers at the conference. Applicants should send an e-mail to yulin.zhang@u-picardie.fr
+There are a limited number of travel grants available for authors of accepted papers at the conference. Applicants should send an e-mail to yulin.zhang@u-picardie.fr .
