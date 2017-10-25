@@ -69,4 +69,4 @@ A selection of the best papers will be invited to submit an extended version for
 ---
 
 ## Student grants
-There are a limited number of travel grants available for authors of accepted papers at the conference. Applicants should send an e-mail to yulin.zhang@u-picardie.fr .
+There are a limited number of hotel grants available for authors of accepted papers at the conference. Applicants should send an e-mail to yulin.zhang@u-picardie.fr .
