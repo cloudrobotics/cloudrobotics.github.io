@@ -9,7 +9,7 @@ The registration is open, please <a href="https://goo.gl/forms/0AcdbasAAwPrjiac2
 
 Early bird registration deadline is 10 November.
 
-The Conference Dinner is not included in the congress fees and can be booked as a supplementary option. Conference dinner costs 30 euros.
+The Conference Dinner (Date: 22 November) is not included in the congress fees and can be booked as a supplementary option. Conference dinner costs 30 euros.
 
 <section>
         <div class="col-centered col-lg-12">
