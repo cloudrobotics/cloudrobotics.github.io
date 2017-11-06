@@ -42,7 +42,7 @@ title: Programme
      </div>
      <div class="row">
        <div class="col-md-5">10h30-11h00</div>
-       <div class="col-md-7">Cafe Break</div>
+       <div class="col-md-7">Coffee Break</div>
      </div>
      <div class="row">
        <div class="col-md-5">11h00-12h00</div>
@@ -58,7 +58,7 @@ title: Programme
      </div>
      <div class="row">
        <div class="col-md-5">15h00-15h30</div>
-       <div class="col-md-7">Cafe Break</div>
+       <div class="col-md-7">Coffee Break</div>
      </div>
      <div class="row">
        <div class="col-md-5">15h30-17h00</div>
@@ -94,7 +94,7 @@ title: Programme
     </div>
     <div class="row">
       <div class="col-md-5">10h30-11h00</div>
-      <div class="col-md-7">Cafe Break</div>
+      <div class="col-md-7">Coffee Break</div>
     </div>
     <div class="row">
       <div class="col-md-5">11h00-12h00</div>
@@ -110,7 +110,7 @@ title: Programme
     </div>
     <div class="row">
       <div class="col-md-5">15h00-15h30</div>
-      <div class="col-md-7">Cafe Break</div>
+      <div class="col-md-7">Coffee Break</div>
     </div>
     <div class="row">
       <div class="col-md-5">15h30-17h00</div>
