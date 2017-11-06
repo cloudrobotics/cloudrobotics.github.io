@@ -7,7 +7,9 @@ For the registration, please contact the conference organizers by emailing <a hr
 
 The registration is open, please <a href="https://goo.gl/forms/0AcdbasAAwPrjiac2">go here</a>.
 
-Early bird registration deadline is 07 November.
+Early bird registration deadline is 10 November.
+
+The Conference Dinner is not included in the congress fees and can be booked as a supplementary option. Conference dinner costs 30 euros.
 
 <section>
         <div class="col-centered col-lg-12">
