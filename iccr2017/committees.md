@@ -20,7 +20,12 @@ Lei ZHANG, Northeastern University, China
 
 Margot Burident, University of Picardie Jules Verne, France
 
+## Industry Chair
+
+Lei ZHANG, Northeastern University, China
+
 ## Programme Committee
+
 Davide	Bacciu,	University of Pisa, Italy
 
 Filippo	Cavallo, The BioRobotics Institute, Italy
