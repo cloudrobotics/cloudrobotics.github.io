@@ -26,7 +26,9 @@ The Conference Dinner (Date: 22 November) is not included in the congress fees a
                     <li>
                       <strong>Lunch</strong></li>
                       <li>
-                        <strong> Poster </strong></li>
+                        <strong> Presentation </strong></li>
+                        <li>
+                          <strong> Poster </strong></li>
                   </ul>
                   <div class="price mediafix">
                     <h3>
@@ -50,6 +52,7 @@ The Conference Dinner (Date: 22 November) is not included in the congress fees a
                     <strong> Cafe  </strong></li>
                   <li>
                     <strong>Lunch</strong></li>
+                      <strong> Presentation </strong></li>
                   <li>
                       <strong>Poster</strong></li>
                   </ul>
