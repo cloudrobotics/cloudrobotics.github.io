@@ -61,7 +61,7 @@ title: Programme
     <br/>
 <div class="row">
        <div class="col-md-2">14h00-15h00</div>
-       <div class="col-md-9">Keynote: Prof. Lorenzo Sabattini</div>
+       <div class="col-md-9">Keynote: Lorenzo Sabattini</div>
      </div>
     <br/>
 <div class="row">
@@ -112,18 +112,13 @@ title: Programme
    <div class="container">
    <br/>
 <div class="row">
-      <div class="col-md-2">08h00-09h00</div>
+      <div class="col-md-2">08h00-09h30</div>
       <div class="col-md-9">Reception</div>
     </div>
    <br/>
 <div class="row">
-      <div class="col-md-2">09h00-09h30</div>
-      <div class="col-md-9">Openning</div>
-    </div>
-   <br/>
-<div class="row">
       <div class="col-md-2">09h30-10h30</div>
-      <div class="col-md-9">Keynote</div>
+      <div class="col-md-9">Keynote: Ding Bo</div>
     </div>
    <br/>
 <div class="row">
