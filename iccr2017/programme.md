@@ -4,7 +4,7 @@ title: Programme
 ---
 
 <div class="row">
- <div class="col-md-6">
+ <div class="col-md-2">
  <div class="card">
    <div class="card-header">
      Day 0
@@ -20,7 +20,7 @@ title: Programme
    </div>
  </div>
 </div>
- <div class="col-md-6">
+ <div class="col-md-2">
   <div class="card">
     <div class="card-header">
       Day 1
@@ -72,7 +72,7 @@ title: Programme
     </div>
   </div>
 </div>
-<div class="col-md-6">
+<div class="col-md-2">
  <div class="card">
    <div class="card-header">
      Day 2
@@ -121,7 +121,7 @@ title: Programme
  </div>
 </div>
 
-<div class="col-md-6">
+<div class="col-md-2">
  <div class="card">
    <div class="card-header">
      Day 3
