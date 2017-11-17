@@ -39,7 +39,9 @@ title: Programme
      <br/>
      <div class="row">
        <div class="col-md-2">10h00-11h00</div>
-       <div class="col-md-9">Keynote: Prof. Xu Jie</div>
+       <div class="col-md-9">Keynote: Prof. Xu Jie<br/>
+       Title: Cloud Robotics: The Cloud-Side Story
+-- Low-Latency and Reliable Cloud Computing for Robotics </div>
      </div>
      <br/>
      <div class="row">
