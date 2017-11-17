@@ -28,27 +28,27 @@ title: Programme
     <div class="card-block">
     <div class="container">
      <div class="row">
-       <div class="col-md-2">08h00-09h00</div>
+       <div class="col-md-2">08h30-09h30</div>
        <div class="col-md-9">Reception</div>
      </div>
      <br/>
      <div class="row">
-       <div class="col-md-2">09h00-09h30</div>
+       <div class="col-md-2">09h30-10h00</div>
        <div class="col-md-9">Openning</div>
      </div>
      <br/>
      <div class="row">
-       <div class="col-md-2">09h30-10h30</div>
+       <div class="col-md-2">10h00-11h00</div>
        <div class="col-md-9">Keynote: Prof. Xu Jie</div>
      </div>
      <br/>
      <div class="row">
-       <div class="col-md-2">10h30-11h00</div>
+       <div class="col-md-2">11h00-11h30</div>
        <div class="col-md-9">Coffee Break</div>
      </div>
      <br/>
      <div class="row">
-       <div class="col-md-2">11h00-12h00</div>
+       <div class="col-md-2">11h30-12h00</div>
        <div class="col-md-9">Paper presentation: Jonathan Cacace,
        <br />  Title: Networking for Cloud Robotics: a case study based on the Sherpa Project
 </div>
@@ -70,7 +70,7 @@ title: Programme
      </div>
     <br/>
     <div class="row">
-       <div class="col-md-2">15h30-17h00</div>
+       <div class="col-md-2">15h30-16h00</div>
        <div class="col-md-9">Paper presentation: Konstantinos Panayiotou,
        <br />  Title: Creating an extrovert robotic assistant via IoT networking devices
        </div>
@@ -127,28 +127,35 @@ title: Programme
     </div>
    <br/>
 <div class="row">
-      <div class="col-md-2">11h00-12h00</div>
-      <div class="col-md-9">Presentation</div>
+      <div class="col-md-2">11h00-11h30</div>
+      <div class="col-md-9">Paper presentation: Ralph Deters,
+      <br />  Title:  Decentralized access control with Distributed Ledgers 	</div>
     </div>
    <br/>
+   <div class="row">
+         <div class="col-md-2">11h30-12h00</div>
+         <div class="col-md-9">Paper presentation: Wu Yunxiing,
+         <br />  Title:  A Visual SLAM Navigation System Based on Cloud Robotics 	</div>
+       </div>
+      <br/>
 <div class="row">
       <div class="col-md-2">12h00-14h00</div>
       <div class="col-md-9">Lunch</div>
     </div>
    <br/>
 <div class="row">
-      <div class="col-md-2">14h00-15h00</div>
-      <div class="col-md-9">Presentation</div>
+      <div class="col-md-2">14h00-15h30</div>
+      <div class="col-md-9">Discussion on founding an open source community on Cloud robotics</div>
     </div>
    <br/>
 <div class="row">
-      <div class="col-md-2">15h00-15h30</div>
+      <div class="col-md-2">15h30-16h00</div>
       <div class="col-md-9">Coffee Break</div>
     </div>
    <br/>
 <div class="row">
       <div class="col-md-2">15h30-17h00</div>
-      <div class="col-md-9">Presentation</div>
+      <div class="col-md-9">Discussion on ICCR2018 organisation </div>
     </div>
   </div>
    </div>
