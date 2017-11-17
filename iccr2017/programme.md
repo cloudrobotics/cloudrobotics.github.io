@@ -23,7 +23,7 @@ title: Programme
   <div class="card">
     <div class="card-header">
       Day 1
-      <h3>Nov. 22</h3>
+      <h3>Nov. 22, Palais des sports, Avenue de Remicourt</h3>
     </div>
     <div class="card-block">
     <div class="container">
@@ -108,7 +108,7 @@ title: Programme
  <div class="card">
    <div class="card-header">
      Day 2
-     <h3>Nov. 23</h3>
+     <h3>Nov. 23, INSSET, 48 Rue d'Ostende</h3>
    </div>
    <div class="card-block">
    <div class="container">
