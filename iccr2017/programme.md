@@ -61,7 +61,9 @@ title: Programme
     <br/>
 <div class="row">
        <div class="col-md-2">14h00-15h00</div>
-       <div class="col-md-9">Keynote: Lorenzo Sabattini</div>
+       <div class="col-md-9">Keynote: Lorenzo Sabattini<br/>
+       Title: From connectivity to robustness in multi-robot systems
+</div>
      </div>
     <br/>
 <div class="row">
@@ -122,18 +124,19 @@ title: Programme
     </div>
    <br/>
 <div class="row">
-      <div class="col-md-2">10h30-11h00</div>
-      <div class="col-md-9">Coffee Break</div>
+      <div class="col-md-2">10h30-11h30</div>
+      <div class="col-md-9">Coffee Break<br/>
+      Drone Show</div>
     </div>
    <br/>
 <div class="row">
-      <div class="col-md-2">11h00-11h30</div>
+      <div class="col-md-2">11h30-12h00</div>
       <div class="col-md-9">Paper presentation: Ralph Deters,
       <br />  Title:  Decentralized access control with Distributed Ledgers 	</div>
     </div>
    <br/>
    <div class="row">
-         <div class="col-md-2">11h30-12h00</div>
+         <div class="col-md-2">12h0-12h30</div>
          <div class="col-md-9">Paper presentation: Wu Yunxiing,
          <br />  Title:  A Visual SLAM Navigation System Based on Cloud Robotics 	</div>
        </div>
