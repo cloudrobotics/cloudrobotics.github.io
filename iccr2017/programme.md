@@ -89,7 +89,7 @@ title: Programme
       <div class="row">
                  <div class="col-md-2">17h00-17h30</div>
                  <div class="col-md-9">Paper presentation: Bo Ding,
-                 <br />  Title: Exploration and Multi-Objective Navigation in Complex Indoor Environments	</div>
+                 <br />  Title: Deep Learning-based Cooperative Trail Following	</div>
       </div>
     <br/>
     <div class="row">
@@ -122,7 +122,8 @@ title: Programme
    <br/>
 <div class="row">
       <div class="col-md-2">09h30-10h30</div>
-      <div class="col-md-9">Keynote: Ding Bo</div>
+      <div class="col-md-9">Keynote: Ding Bo<br/>
+      Title: Cloud-Enabled Robotic Collective Intelligence</div>
     </div>
    <br/>
 <div class="row">
