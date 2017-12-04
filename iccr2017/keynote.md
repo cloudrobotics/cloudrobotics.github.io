@@ -14,6 +14,8 @@ title: Keynotes
   He is the leader for a Research Peak of Excellence at Leeds, the director of the EPSRC-funded White Rose Grid e-Science Centre (2002 - 2014) involving the three White Rose Universities of Leeds, Sheffield and York, and the head of the Institute for Computational and Systems Science at Leeds.
   He has worked in the field of Distributed Computing Systems for over thirty years and had industrial experience in building large-scale networked computer systems. He is now leading a collaborative research team, investigating fundamental theories and models for distributed systems (e.g. the theory for fault-diagnosable and large-scale distributed systems, and the formalisation for dynamic multi-party authentication) and developing advanced Internet and Cloud technologies with a focus on complex system engineering (e.g. with Rolls-Royce and JLR), energy-efficient computing (e.g. with Google and Alibaba), dependable and secure collaboration (e.g. large-scale data processing and analysis for social science and e-healthcare applications with TPP and X-Lab Ltd), and evolving system architectures (e.g. with BAE Systems).
   He was Professor of Distributed Systems at Durham before he joined the School of Computing at Leeds in 2003.</p>
+
+<a href="https://youtu.be/sZlVSmC7Lzo">Cloud Robotics: The Cloud-Side Story -- Low-Latency and Reliable Cloud Computing for Robotics</a>
   </div>
   <div class="col-md-2 pull-md-10">
     <img class="featurette-image img-thumbnail mx-auto" src="/images/keynote/jieXuPhoto.jpg" alt="Prof. Jie Xu">
@@ -33,6 +35,9 @@ Lorenzo Sabattini is an Assistant Professor at the Department of Sciences and Me
 
     <p class="lead"> His main research interests include multi-robot systems, decentralized estimation and control control, and mobile robotics.
      He is one of the founding co-chairs of the IEEE RAS Technical Committee on Multi-Robot Systems: he has served as the corresponding co-chair since its foundation, in 2014. He has been serving as Associate Editor for the IEEE Robotics and Automation Letters since 2015, and for IEEE Robotics and Automation Magazine since 2017.</p>
+
+     <a href="https://youtu.be/DGAuVmgFH7g">From connectivity to robustness in multi-robot systems</a>
+
      </div>
 
      <div class="col-md-2 pull-md-10">
@@ -50,6 +55,9 @@ Lorenzo Sabattini is an Assistant Professor at the Department of Sciences and Me
     <h3>National University of Defense Technology, China</h3>
     <p class="lead">
 Associate professor at the Distributed Computing Group in the Computer College, National University of Defense Technology, China. He received his Ph.D. degree in computer science and technology in 2010 from the NUDT, China. He is currently an Associate Professor at both this university and the National Key Laboratory of Parallel and Distributed Processing, China. He has leaded and participated in a set of Chinese national projects such as NSFC, 863 and 973. He has coauthored more than 60 academic papers and published a book on software adaptation. His research achievements have received several provincial awards. His major research interests include cloud robotics, robot collective intelligence, complex distributed systems and software evolution.</p>
+
+<a href="https://youtu.be/np-E1W1D4Zo">Cloud-Enabled Robotic Collective Intelligence</a>
+
      </div>
 
      <div class="col-md-2 pull-md-10">
