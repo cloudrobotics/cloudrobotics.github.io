@@ -14,6 +14,11 @@ title: Sponsors
             </div>
             <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                 <a class="thumbnail" href="#">
+                    <img class="img-thumbnail" src="/images/logo/neu.jpg" alt="">
+                </a>
+            </div>
+            <div class="col-lg-3 col-md-4 col-xs-6 thumb">
+                <a class="thumbnail" href="#">
                     <img class="img-thumbnail" src="/images/logo/nordfrance.jpg" alt="">
                 </a>
             </div>
