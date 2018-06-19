@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ICCR2017
+title: ICCR2018
 email: contact.cloudrobotics@gmail.com
-description: Internation Conference on Cloud and Robotics, Nov. 22-23, Saint Quentin, France
+description: International Conference on Cloud and Robotics, Nov. 12-14, Paris/Saint Quentin, France
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cloudrobotics.github.io" # the base hostname & protocol for your site
 twitter_username: ICCRconf

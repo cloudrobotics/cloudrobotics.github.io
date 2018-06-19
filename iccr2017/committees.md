@@ -5,7 +5,6 @@ title: Committee
 
 >
 
-
 ## General Chair
 
 Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
@@ -26,35 +25,35 @@ Lei ZHANG, Northeastern University, China
 
 ## Programme Committee
 
-Davide	Bacciu,	University of Pisa, Italy
+Davide Bacciu, University of Pisa, Italy
 
-Filippo	Cavallo, The BioRobotics Institute, Italy
+Filippo Cavallo, The BioRobotics Institute, Italy
 
-Javier	Civera,	Universidad de Zaragoza, Spain
+Javier Civera, Universidad de Zaragoza, Spain
 
 Liming Chen, INSA Lyon, France
 
-Mauro	Dragone,	Heriot-Watt University, UK
+Mauro Dragone, Heriot-Watt University, UK
 
-Uwe	Haass,	Roboconsult, Germany
+Uwe Haass, Roboconsult, Germany
 
-Marianne	Huchard, LIRMM, Université Montpellier 2 et CNRS, France
+Marianne Huchard, LIRMM, Université Montpellier 2 et CNRS, France
 
 Ben Kehoe, iRobot, USA
 
-Jacques	Malenfant, Université Pierre et Marie Curie-Paris 6, CNRS, UMR 7606 LIP6, France
+Jacques Malenfant, Université Pierre et Marie Curie-Paris 6, CNRS, UMR 7606 LIP6, France
 
-Luis	Riazuelo,	Universidad de Zaragoza, Spain
+Luis Riazuelo, Universidad de Zaragoza, Spain
 
-Pieter	Simoens,	Ghent University - imec, Belgium
+Pieter Simoens, Ghent University - imec, Belgium
 
 Olivier Simonin, INSA Lyon, France
 
 Lei Zhang, Northeastern University, China
 
-Huaxi Yulin	Zhang, Université de Picardie Jules Verne, France
+Huaxi Yulin Zhang, Université de Picardie Jules Verne, France
 
-Cezary	Zielinski,	Warsaw University of Technology, Poland
+Cezary Zielinski, Warsaw University of Technology, Poland
 
 ## Steering Committee
 

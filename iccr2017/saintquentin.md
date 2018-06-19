@@ -1,5 +1,5 @@
 ---
-layout: iccr2017nologo
+layout: iccr2017
 title: Saint Quentin
 ---
 
