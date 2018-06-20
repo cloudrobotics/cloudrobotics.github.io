@@ -2,6 +2,10 @@
 layout: iccr2017
 title: ICCR2017
 ---
+**ICCR 2017: International Conference on Cloud and Robotics.**
+
+<span style="color: blue">**Submiting to arXiv**</span>
+
 
 ### Preface
 

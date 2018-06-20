@@ -4,7 +4,7 @@ title: ICCR2017 Proceedings
 ---
 **ICCR 2017: International Conference on Cloud and Robotics.**
 
-<span style="color: blue">**Summiting on arXiv**</span>
+<span style="color: blue">**Submiting to arXiv**</span>
 
 ### Preface
 
