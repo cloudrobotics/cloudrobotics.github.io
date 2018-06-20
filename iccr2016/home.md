@@ -14,7 +14,7 @@ The <a href="http://cloudrobotics.info/">International conference on Cloud and R
 
 ICCR is the premier gathering of practitioners and researchers interested in how to bring the power of Cloud computing and Robotics to a new cutting-edge domain: Cloud robotics. The objective of ICCR is a working conference, where together Cloud computing and robotics researchers/practitioners to exchange their ideas. Different with traditional academic conference, ICCR is also a forum for researchers and practitioners in the two disciplines, fostering the collaboration of Cloud computing with robotics, and for practitioners to show their working projects and to discuss and exchange their problems with researchers to find a solution.
 
-The workshop was organized by Lei ZHANG (Northeastern University, China), Huaxi Yulin ZHANG (University of Picardie Jules Verne, France) and Margot Burident (University of Picardie Jules Verne, France).
+The conference was organized by Lei ZHANG (Northeastern University, China), Huaxi Yulin ZHANG (University of Picardie Jules Verne, France) and Margot Burident (University of Picardie Jules Verne, France).
 
 ---
 
@@ -55,14 +55,14 @@ The workshop was organized by Lei ZHANG (Northeastern University, China), Huaxi 
 
 <hr>
 
-Five papers were accepted at the workshop. All
+Five papers were accepted at the conference. All
       submitted regular papers were reviewed by at least three members
-      of the program committee. The workshop was attended by 26 researchers/practitioners from various domains
-      in robotics, Cloud computing, software engineering. The workshop faciliated the discussion and exchange between robotics and Cloud computing, and furthermore builded a base for future collaboration.
+      of the program committee. The conference was attended by 26 researchers/practitioners from various domains
+      in robotics, Cloud computing, software engineering. The conference faciliated the discussion and exchange between robotics and Cloud computing, and furthermore builded a base for future collaboration.
 
 ---
 
-###  Regular papers presented at the workshop
+###  Regular papers presented at the conference
 <span style="color: blue">**Best paper prize:**
 **Xin Li, José-Fernán Martínez, Gregorio Rubio and David Gómez.**
 **Context Reasoning in Underwater Robots Using MEBN.**</span>
