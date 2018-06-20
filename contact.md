@@ -1,5 +1,5 @@
 ---
-layout: iccr2017
+layout: default
 title: Contact
 ---
 >
