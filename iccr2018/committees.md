@@ -14,7 +14,7 @@ Jacques Malenfant, Université Pierre et Marie Curie-Paris 6, CNRS, UMR 7606 LIP
 Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
 
 
-## Working session "Robotics in Agriculture"
+## Working session chair of "Robotics in Agriculture"
 
 Roland Lenain, Irstea, France
 
@@ -27,6 +27,8 @@ Margot Burident, University of Picardie Jules Verne, France
 ## Industry Chair
 
 Lei ZHANG, Northeastern University, China
+
+---
 
 ## Programme Committee (working on)
 
