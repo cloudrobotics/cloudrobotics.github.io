@@ -44,8 +44,6 @@ Javier Civera, Universidad de Zaragoza, Spain
 
 Mauro Dragone, Heriot-Watt University, UK
 
-Vlad Estivill-Castro, Griffith University, Australia
-
 Uwe Haass, Roboconsult, Germany
 
 Marianne Huchard, University of Montpellier, France
