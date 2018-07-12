@@ -23,9 +23,42 @@ Margot Burident, University of Picardie Jules Verne, France
 
 Lei ZHANG, Northeastern University, China
 
-## Programme Committee
+## Programme Committee (working on)
 
-Coming soon!!
+Vlad Estivill-Castro, Griffith University, Australia
+
+Uwe Haass, RoboConsult, Germany
+
+Marianne Huchard, University of Montpellier, France
+
+<!-- Ben Kehoe, iRobot, USA -->
+
+Javier Civera, Universidad de Zaragoza, Spain
+
+Mauro Dragone, Heriot-Watt University, UK
+
+Vlad Estivill-Castro, Griffith University, Australia
+
+Uwe Haass, Roboconsult, Germany
+
+Marianne Huchard, University of Montpellier, France
+
+Chao Liu, CNRS, France
+
+Jacques Malenfant, Pierre-and-Marie-Curie University, France
+
+Jouni Mattila, Tampere University of Technology, Finland
+
+Olivier Simonin, INSA Lyon, France
+
+René Zapata, University of Montpellier, France
+
+Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
+
+Lei Zhang, Northeastern University, China
+
+Cezary Zielinski, Warsaw University of Technology, Poland
+
 
 ## Steering Committee
 
