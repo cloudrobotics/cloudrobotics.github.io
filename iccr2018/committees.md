@@ -13,6 +13,11 @@ Jacques Malenfant, Université Pierre et Marie Curie-Paris 6, CNRS, UMR 7606 LIP
 
 Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
 
+
+## Working session "Robotics in Agriculture"
+
+Roland Lenain, Irstea, France
+
 ## Local Chair
 
 Emmanuel Bellenger, University of Picardie Jules Verne, France
