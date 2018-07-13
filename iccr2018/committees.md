@@ -42,6 +42,8 @@ Marianne Huchard, University of Montpellier, France
 
 Javier Civera, Universidad de Zaragoza, Spain
 
+Frédéric Colledani, CEA, France
+
 Mauro Dragone, Heriot-Watt University, UK
 
 Uwe Haass, Roboconsult, Germany
@@ -63,7 +65,6 @@ Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
 Lei Zhang, Northeastern University, China
 
 Cezary Zielinski, Warsaw University of Technology, Poland
-
 
 ## Steering Committee
 
