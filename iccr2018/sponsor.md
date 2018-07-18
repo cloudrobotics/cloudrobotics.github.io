@@ -1,5 +1,5 @@
 ---
-layout: iccr2017
+layout: iccr2018
 title: Sponsors
 ---
 
