@@ -56,7 +56,11 @@ Jacques Malenfant, Pierre-and-Marie-Curie University, France
 
 Jouni Mattila, Tampere University of Technology, Finland
 
+Luis Riazuelo, Universidad de Zaragoza, Spain
+
 Olivier Simonin, INSA Lyon, France
+
+Xianbo Xiang. Huazhong University of Science and Technology, China
 
 René Zapata, University of Montpellier, France
 
