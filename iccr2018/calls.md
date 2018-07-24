@@ -5,7 +5,7 @@ title: Call For Papers
 
 >
 
-The 5th edition of the International Conference on Cloud and Robotics (ICCR 2018 - http://cloudrobotics.info) will be held on November 11-14 2018 in Paris and Saint-Quentin, France. The conference is co-located with the industry exposition Robonumerique (http://www.robonumerique.fr).
+The 5th edition of the International Conference on Cloud and Robotics (ICCR 2018 - http://cloudrobotics.info) will be held on November 12-14 2018 in Paris and Saint-Quentin, France. The conference is a co-event with GDR ALROB and the industry exposition Robonumerique (http://www.robonumerique.fr).
 
 The domain of cloud robotics aims to converge robots with computation,
 storage and communication resources provided by the cloud. The cloud
