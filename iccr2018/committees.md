@@ -13,7 +13,6 @@ Jacques Malenfant, Université Pierre et Marie Curie-Paris 6, CNRS, UMR 7606 LIP
 
 Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
 
-
 ## Working session chair of "Robotics in Agriculture"
 
 Roland Lenain, Irstea, France
@@ -59,6 +58,8 @@ Jouni Mattila, Tampere University of Technology, Finland
 Luis Riazuelo, Universidad de Zaragoza, Spain
 
 Olivier Simonin, INSA Lyon, France
+
+Pieter Simoens, Ghent University - imec, Belgium
 
 Xianbo Xiang. Huazhong University of Science and Technology, China
 
