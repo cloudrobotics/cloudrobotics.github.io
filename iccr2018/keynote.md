@@ -11,7 +11,19 @@ title: Keynotes
     <h3>Inria permanent researcher, Spirals research team</h3>
     <h3>Inria Lille - Nord Europe, France </h3>
     <h3><a>http://chercheurs.lille.inria.fr/~pmerle/</a></h3>
-    <p class="lead">
+    <p class="lead">Philippe Merle is senior researcher at Inria
+since 2002 and is member of the Spirals research
+team. He was associate professor at
+University of Lille 1, France. He obtained a
+PhD degree in computer science from University
+of Lille 1. His research is about software
+engineering for distributed systems, especially
+cloud computing, service oriented computing,
+middleware, model driven engineering,
+and component-based software engineering. He
+has co-authored two patents, two OMG specifications,
+one book, 15 journal papers, and more than 70 international
+conference papers.
   </p>
 
 
