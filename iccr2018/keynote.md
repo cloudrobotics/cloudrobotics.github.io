@@ -10,7 +10,6 @@ title: Keynotes
     <h2 class="featurette-heading">Philippe Merle </h2>
     <h3>Inria permanent researcher, Spirals research team</h3>
     <h3>Inria Lille - Nord Europe, France </h3>
-    <h3><a>http://chercheurs.lille.inria.fr/~pmerle/</a></h3>
     <p class="lead">Philippe Merle is senior researcher at Inria
 since 2002 and is member of the Spirals research
 team. He was associate professor at
@@ -27,6 +26,10 @@ conference papers.
   </p>
 
 
+  </div>
+    <div class="col-md-2 pull-md-10">
+    <img class="featurette-image img-thumbnail mx-auto" src="/images/keynote/merle.jpg" alt="Philippe Merle">
+    <p><a href="http://chercheurs.lille.inria.fr/~pmerle/" class="btn btn-default" role="button"><i class="fa fa-user fa-2x" aria-hidden="true"></i></a></p>
   </div>
   </div>
   </div>
