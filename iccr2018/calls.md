@@ -16,7 +16,7 @@ intelligence. Today, the paradigms of cloud/fog/edge computing propose
 software architecture solutions for robots to share computations or
 offload them to ambiant and networked resources. Yet, combining
 distant computations with the real time constraints of robotics is
-very challenging.  As the challenges in this domain are
+very challenging. As the challenges in this domain are
 multi-disciplinary and similar in other research areas, Cloud Robotics
 aims at building bridges among experts from academia and industry
 working in different fields, such as robotics, cyber-physical systems,
@@ -42,6 +42,8 @@ Topics of interest include, but are not necessarily limited to:
 
 - Domain Specific Languages for cloud robotics and cyber-physical
   systems.
+
+- Neuromorphic engineering
 
 - Tele-robotic systems.
 
@@ -77,9 +79,9 @@ Topics of interest include, but are not necessarily limited to:
 
 Three categories of submissions are solicited:
 
-* full papers, presenting research results, limited to 6 pages in 2-column conference paper format
-* application papers (short papers 2-4 pages), presenting lessons learnt during practical field trials and/or with commercial applications in the domain of cloud robotics and cyber-physical systems
-* presentations, expressing industry viewpoints and requirements that may help in shaping future research agenda. Prospective presenters should submit a short abstract describing the content of their presentation
+- full papers, presenting research results, limited to 6 pages in 2-column conference paper format
+- application papers (short papers 2-4 pages), presenting lessons learnt during practical field trials and/or with commercial applications in the domain of cloud robotics and cyber-physical systems
+- presentations, expressing industry viewpoints and requirements that may help in shaping future research agenda. Prospective presenters should submit a short abstract describing the content of their presentation
 
 ---
 
