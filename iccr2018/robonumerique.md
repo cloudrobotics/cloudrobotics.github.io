@@ -8,6 +8,7 @@ title: Robonumerique/RoboMeeting
   <div class="card-block">
     <h1 class="card-title" align="center">International robotics exhibition</h1>
     <h3 class="card-title" align="center">Nov. 14, 2018 Saint Quentin, France</h3>
+    <p><a href="http://robomeetings.fr/"> http://robomeetings.fr/</a></p>
     <p><a class="btn btn-lg btn-primary" href="http://robomeetings.fr/" role="button">Register today</a></p>
   </div>
 </div>
