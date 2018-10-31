@@ -87,7 +87,7 @@ The Conference Dinner (Date: 12 November) is not included in the congress fees a
                   </ul>
                   <div class="price">
                   <h3>
-                    <span class="symbol">€</span>350</h3>
+                    <span class="symbol">€</span>400</h3>
                   <h4>Full Price</h4>
                   </div>
                   <!-- <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a> -->
