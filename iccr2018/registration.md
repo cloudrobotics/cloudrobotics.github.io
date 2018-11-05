@@ -88,6 +88,8 @@ The Conference Dinner (Date: 12 November) is not included in the congress fees a
                   <ul class="item-list">
                   <li>
                     <strong>Lunch</strong></li>
+                            <li>
+                    <strong>Conference dinner</strong></li>
                      <li>
                       <strong>Presentation 20m</strong></li>
                   <li>
