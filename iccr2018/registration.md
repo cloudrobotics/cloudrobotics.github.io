@@ -22,6 +22,8 @@ The Conference Dinner (Date: 12 November) is not included in the congress fees a
                     <li> 
                       <strong>Lunch</strong></li>
                       <li>
+                    <strong>Conference dinner</strong></li>
+                      <li>
                         <strong> Presentation </strong></li>
                         <li>
                           <strong> Poster </strong></li>
@@ -42,6 +44,8 @@ The Conference Dinner (Date: 12 November) is not included in the congress fees a
                   <ul class="item-list">
                   <li>
                     <strong>Lunch</strong></li>
+                    <li>
+                    <strong>Conference dinner</strong></li>
                   <li>
                     <strong> Presentation </strong></li>
 
@@ -64,11 +68,13 @@ The Conference Dinner (Date: 12 November) is not included in the congress fees a
                     <li>
                     <strong>Lunch</strong></li>
                     <li>
-                      <strong>Poster</strong></li>
+                    <strong>Conference dinner</strong></li>
+                    <li>
+                      <strong>Presentation 20m</strong></li>
                   </ul>
                   <div class="price">
                   <h3>
-                    <span class="symbol">€</span>250</h3>
+                    <span class="symbol">€</span>160</h3>
                   <h4>Full Price</h4>
                   </div>
                   <!-- <a class="btn-clean btn-pad" href="index.html#contact">Register <i class="ion-ios-unlocked-outline"></i></a> -->
@@ -83,7 +89,7 @@ The Conference Dinner (Date: 12 November) is not included in the congress fees a
                   <li>
                     <strong>Lunch</strong></li>
                   <li>
-                      <strong>Presentation 20m</strong></li>
+                      <strong>Flyer</strong></li>
                   </ul>
                   <div class="price">
                   <h3>
