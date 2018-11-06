@@ -50,7 +50,7 @@ title: Programme
      <br/>
           <div class="row">
        <div class="col-md-2">10h30-11h15</div>
-       <div class="col-md-9">Keynote: Philippe Merlez,
+       <div class="col-md-9">Keynote: Philippe Merle,
        <br />  Title: Mobile Cloud Robotics as a Service with OCCIware</div>
     </div>
         <br/>
