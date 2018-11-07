@@ -28,41 +28,41 @@ title: Programme
     <div class="card-block">
     <div class="container">
      <div class="row">
-       <div class="col-md-2">08h30-09h15</div>
+       <div class="col-md-2">08h30-09h30</div>
        <div class="col-md-9">Reception</div>
      </div>
      <br/>
      <div class="row">
-       <div class="col-md-2">09h15-9h30</div>
+       <div class="col-md-2">09h30-9h45</div>
        <div class="col-md-9">Openning</div>
      </div>
      <br/>
      <div class="row">
-       <div class="col-md-2">9h30-10h15</div>
+       <div class="col-md-2">9h45-10h30</div>
        <div class="col-md-9">Keynote: Frederic Colledani<br/>
        Title: Agricultural robots : from the lab to the market </div>
      </div>
      <br/>
      <div class="row">
-       <div class="col-md-2">10h15-10h30</div>
+       <div class="col-md-2">10h30-10h45</div>
        <div class="col-md-9">Coffee Break</div>
      </div>
      <br/>
           <div class="row">
-       <div class="col-md-2">10h30-11h15</div>
+       <div class="col-md-2">10h45-11h30</div>
        <div class="col-md-9">Keynote: Philippe Merle,
        <br />  Title: Mobile Cloud Robotics as a Service with OCCIware</div>
     </div>
         <br/>
      <div class="row">
-       <div class="col-md-2">11h15-11h55</div>
+       <div class="col-md-2">11h30-12h10</div>
        <div class="col-md-9">Paper presentation: Florian Voigtländer,
        <br />  Title: 5G for the Factory of the Future: Wireless Communication in an Industrial Environment	
     </div>
      </div>
     <br/>
 <div class="row">
-       <div class="col-md-2">12h00-14h00</div>
+       <div class="col-md-2">12h10-14h00</div>
        <div class="col-md-9">Lunch</div>
      </div>
     <br/>
