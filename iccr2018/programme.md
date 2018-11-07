@@ -57,7 +57,7 @@ title: Programme
      <div class="row">
        <div class="col-md-2">11h15-11h55</div>
        <div class="col-md-9">Paper presentation: Florian Voigtländer,
-       <br />  Title: Networking for Cloud Robotics: a case study based on the Sherpa Project
+       <br />  Title: 5G for the Factory of the Future: Wireless Communication in an Industrial Environment	
     </div>
      </div>
     <br/>
