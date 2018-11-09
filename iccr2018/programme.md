@@ -67,13 +67,19 @@ title: Programme
      </div>
     <br/>
 <div class="row">
-       <div class="col-md-2">14h00-15h00</div>
+       <div class="col-md-2">14h00-14h45</div>
        <div class="col-md-9">Keynote: Eric Lucet<br/>
        Title: Stabilization of a highly dynamic vehicle road train</div>
      </div>
     <br/>
+    <div class="row">
+       <div class="col-md-2">14h45-15h15</div>
+       <div class="col-md-9">Paper presentation: Ryma Regaieg<br/>
+       Title: Computational offloading and load balancing in FPGA based robotics</div>
+     </div>
+    <br/>
 <div class="row">
-       <div class="col-md-2">15h00-15h30</div>
+       <div class="col-md-2">15h15-15h30</div>
        <div class="col-md-9">Coffee Break</div>
      </div>
     <br/>
