@@ -156,6 +156,26 @@ layout: default
 <!--
   Wrap the rest of the page in another container to center all the content.
 -->
+<hr class="featurette-divider" />
+
+<center>
+  <h1>Organisation</h1>
+  <br />
+</center>
+<ul>
+  <li>
+    <h6>INSSET/ University of Picardie Jules Verne</h6>
+    <p>13 November 2018 Saint Quentin, France</p>
+  </li>
+
+  <li>
+    <h6>
+      Co-organised with <a href="/iccr2018/robonumerique">RoboMeeting</a>,
+      International robotics exhibition
+    </h6>
+    <p>14 November 2018 Saint Quentin, France</p>
+  </li>
+</ul>
 
 <hr class="featurette-divider" />
 
@@ -204,52 +224,23 @@ layout: default
 </div>
 
 <hr class="featurette-divider" />
-
 <center>
-  <h1>Organisation</h1>
+  <h1>Photos</h1>
   <br />
 </center>
-<ul>
-  <li>
-    <h6>A joint event with GDR Robotics: ALROB</h6>
-    <p>12 November 2018 Paris, France</p>
-  </li>
-
-  <li>
-    <h6>INSSET/ University of Picardie Jules Verne</h6>
-    <p>13 November 2018 Saint Quentin, France</p>
-  </li>
-
-  <li>
-    <h6>
-      Co-organised with <a href="/iccr2018/robonumerique">RoboMeeting</a>,
-      International robotics exhibition
-    </h6>
-    <p>14 November 2018 Saint Quentin, France</p>
-  </li>
-
-  <li>
-    <h6>Working session on "Robotics in Agriculture"</h6>
-    <p>13 November 2018 Saint Quentin, France</p>
-  </li>
-</ul>
-<!--
-  <div class="row">
-    <div class="col-sm-4">
-      <img class="rounded-circle" src="/images/cloud.png" alt="Cloud" width="140" height="120">
-      <h2>Co-organised with GDR Robotics: ALROB</h2>
-    </div>
-
-    <div class="col-sm-4">
-      <img class="rounded-circle" src="/images/robot.png" alt="Robotics" width="140" height="120">
-      <h2> Software architectures for robotics</h2>
-    </div>
-    <div class="col-sm-4">
-        <img class="rounded-circle" src="/images/agri.png" alt="Agriculture" width="140" height="120">
-        <h2>Robotics in Agriculture</h2>
-      </div>
+<div class="row">
+  {% for image in site.static_files %} {% if image.path contains
+  'images/2018/photos' %}
+  <div class="col-lg-6 col-md-8 col-xs-10 thumb">
+    <a class="thumbnail" href="#">
+      <img
+        class="img-fluid"
+        src="{{ site.baseurl }}{{ image.path }}"
+        alt="image"
+    /></a>
   </div>
--->
+  {% endif %} {% endfor %}
+</div>
 
 <hr class="featurette-divider" />
 
