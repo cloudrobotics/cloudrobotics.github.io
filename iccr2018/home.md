@@ -1,17 +1,17 @@
 ---
-layout: iccr2017
-title: ICCR2017
+layout: iccr2018
+title: ICCR2018
 ---
-**ICCR 2017: International Conference on Cloud and Robotics.**
+**ICCR 2018: International Conference on Cloud and Robotics.**
 
 <span style="color: blue">**Submitted to arXiv**</span>
 
 
 ### Preface
 
-The 4th edition of the International Conference on Cloud and Robotics (ICCR 2017 - http://cloudrobotics.info) will be
-held on November 22-23 2017 in Saint-Quentin, France. The conference is co-located with the industry exposition Robonumerique
-(http://www.robonumerique.fr).
+The 5th edition of the International Conference on Cloud and Robotics (ICCR 2018 - https://cloudrobotics.info) will be
+held on November 12-14 2018 in Saint-Quentin, France. The conference is co-located with the industry exposition Robonumerique
+(https://www.robomeetings.fr).
 
 The domain of cloud robotics aims to converge robots with computation, storage and communication resources provided by
 the cloud. The cloud may complement robotic resources in several ways, including crowd-sourcing knowledge databases,

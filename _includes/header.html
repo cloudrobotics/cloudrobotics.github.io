@@ -1,84 +1,148 @@
 <!--<header class="site-header" role="banner">-->
 
-{% assign custom_url = site.url | append: site.baseurl %} {% assign full_base_url = custom_url %}
+{% assign custom_url = site.url | append: site.baseurl %} {% assign
+full_base_url = custom_url %}
 
 <div class="container header">
   <nav class="navbar navbar-toggleable-md navbar-light fixed-top bg-faded">
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
-      aria-expanded="false" aria-label="Toggle navigation">
+    <button
+      class="navbar-toggler navbar-toggler-right"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarCollapse"
+      aria-controls="navbarCollapse"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
       <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="/">ICCR2018</a>
+    <a class="navbar-brand" href="/">ICCR2019</a>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav ml-auto">
         <!-- <li class="nav-item active">
           <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
         </li> -->
         <li class="nav-item">
-          <a class="nav-link
-          {% if page.url == '/iccr2018/calls.html' %}
+          <a
+            class="nav-link
+          {% if page.url == '/iccr2019/calls.html' %}
             active
           {% else %}
           {% endif %}
-          " href="/iccr2018/calls">Calls</a>
+          "
+            href="/iccr2019/calls"
+            >Calls</a
+          >
         </li>
         <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Calls</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="/iccr2018/calls">Call for Papers</a>
-            <a class="dropdown-item" href="/iccr2018/calls-industry">Call for Industrial Presentations</a>
-            <a class="dropdown-item" href="/iccr2018/importantdate">Important dates</a>
+            <a class="dropdown-item" href="/iccr2019/calls">Call for Papers</a>
+            <a class="dropdown-item" href="/iccr2019/calls-industry">Call for Industrial Presentations</a>
+            <a class="dropdown-item" href="/iccr2019/importantdate">Important dates</a>
           </div>
         </li> -->
         <li class="nav-item">
-          <a class="nav-link
-          {% if page.url == '/iccr2018/committees.html' %}
+          <a
+            class="nav-link
+          {% if page.url == '/iccr2019/committees.html' %}
             active
           {% else %}
           {% endif %}
-          " href="/iccr2018/committees">Committees</a>
+          "
+            href="/iccr2019/committees"
+            >Committees</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link
+          {% if page.url == '/iccr2019/keynote.html' %}
+            active
+          {% else %}
+          {% endif %}
+          "
+            href="/iccr2019/keynote"
+            >Committees</a
+          >
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Programme</a>
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+            >Registration</a
+          >
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="/iccr2018/keynote">Keynotes</a>
-            <a class="dropdown-item" href="/iccr2018/programme">Programme </a>
+            <a class="dropdown-item" href="/iccr2019/registration"
+              >Registration</a
+            >
+            <a class="dropdown-item" href="/iccr2019/venue">Venue </a>
+            <a class="dropdown-item" href="/iccr2019/visa">Visa Information </a>
           </div>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration</a>
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+            >Robomeeting</a
+          >
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="/iccr2018/registration">Registration</a>
-            <a class="dropdown-item" href="/iccr2018/venue">Venue </a>
-            <a class="dropdown-item" href="/iccr2018/visa">Visa Information </a>
+            <a class="dropdown-item" href="/iccr2019/saintquentin"
+              >Saint Quentin</a
+            >
+            <a class="dropdown-item" href="/iccr2019/robonumerique"
+              >Robomeeting 2019
+            </a>
           </div>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Robomeeting</a>
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+            >Sponsors</a
+          >
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="/iccr2018/saintquentin">Saint Quentin</a>
-            <a class="dropdown-item" href="/iccr2018/robonumerique">Robomeeting 2018 </a>
-          </div>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sponsors</a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="/iccr2018/becomeasponsor">Become a sponsor</a>
-            <a class="dropdown-item" href="/iccr2018/sponsor">Current sponsors </a>
+            <a class="dropdown-item" href="/iccr2019/becomeasponsor"
+              >Become a sponsor</a
+            >
+            <a class="dropdown-item" href="/iccr2019/sponsor"
+              >Current sponsors
+            </a>
           </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link
+          <a
+            class="nav-link
           {% if page.url == '/contact.html' %}
             active
           {% else %}
           {% endif %}
-          " href="/contact">Contact</a>
+          "
+            href="/contact"
+            >Contact</a
+          >
         </li>
 
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Series</a>
+          <a
+            class="nav-link dropdown-toggle"
+            href="#"
+            data-toggle="dropdown"
+            aria-haspopup="true"
+            aria-expanded="false"
+            >Series</a
+          >
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <a class="dropdown-item" href="/iccr2019/home.html">ICCR2019</a>
             <a class="dropdown-item" href="/iccr2017/home.html">ICCR2017</a>
             <a class="dropdown-item" href="/iccr2016/home.html">ICCR2016</a>
           </div>

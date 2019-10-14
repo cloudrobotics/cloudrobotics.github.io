@@ -31,7 +31,7 @@ body {
 
 .carousel-bg {
   padding: 2ex;
-  background-color:  rgb(95, 93, 93);
+  background-color: rgb(163, 160, 160);
   opacity: 0.85;
 }
 
@@ -58,7 +58,6 @@ h2 {
   height: 500px;
   /* opacity: 0.3; */
 }
-
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
