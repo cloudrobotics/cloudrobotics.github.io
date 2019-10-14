@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: ICCR2019
 email: contact.cloudrobotics@gmail.com
-description: International Conference on Cloud and Robotics, Nov. 12-14, Paris/Saint Quentin, France
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cloudrobotics.github.io" # the base hostname & protocol for your site
+description: International Conference on Cloud and Robotics, Nov. 13-14, Saint Quentin, France
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://cloudrobotics.github.io' # the base hostname & protocol for your site
 twitter_username: ICCRconf
 author: yulin.zhang@u-picardie.fr
 
@@ -26,4 +26,4 @@ markdown: kramdown
 theme: minima
 gems: [bootstrap, autoprefixer-rails, jekyll-assets]
 sass:
-    sass_dir: _sass
+  sass_dir: _sass
