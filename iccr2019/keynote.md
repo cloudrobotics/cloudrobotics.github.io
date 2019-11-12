@@ -21,7 +21,7 @@ title: Keynotes
         </div>
 
         <div class="col-md-10 push-md-2">
-            <h2 class="featurette-heading">Frédéric COLLEDANI </h2>
+            <h2 class="featurette-heading">Allex Oliveira </h2>
             <h3>IoT engineer at INRIA Lille Nord Europe in RMoD team</h3>
             <h3>Inria Lille, France </h3>
             <p class="lead">
@@ -38,7 +38,7 @@ He helped to give the Pharo IoT workshops in Germany and Vietnam, for which he w
         </div>
         <div class="col-md-2 pull-md-10">
             <img class="featurette-image img-thumbnail mx-auto" src="/images/2019/allex.jfif" alt="Allex Oliveira">
-            <p><a href="https://www.linkedin.com/in/fredericcolledani/?originalSubdomain=fr" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
+            <p><a href="https://twitter.com/allex_oliveira" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
                         aria-hidden="true"></i></a></p>
         </div>
 
