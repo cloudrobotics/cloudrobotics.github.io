@@ -58,7 +58,7 @@ title: Programme
         <br />
          <div class="row">
           <div class="col-md-2">14h00-14h45</div>
-          <div class="col-md-9">Keynote: Allex Oliveira<br />
+          <div class="col-md-9">Keynote: Allex Oliveira, Steven Costiou<br />
             Title: Remote and live debugging of IOT applications: tools for researchers and developers.
           </div>
         </div>
