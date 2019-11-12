@@ -34,7 +34,7 @@ title: Programme
         <br />
         <div class="row">
           <div class="col-md-2">9h45-10h30</div>
-          <div class="col-md-9">Keynote: Ribin Passama<br />
+          <div class="col-md-9">Keynote: Robin Passama<br />
             Title: Programming a cobot by teaching : work in progress and how cloud computing could help in the future
           </div>
         </div>
