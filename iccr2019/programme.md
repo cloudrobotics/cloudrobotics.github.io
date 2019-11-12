@@ -28,13 +28,8 @@ title: Programme
     <div class="card-block">
       <div class="container">
         <div class="row">
-          <div class="col-md-2">09h00-09h30</div>
+          <div class="col-md-2">09h00-09h45</div>
           <div class="col-md-9">Reception</div>
-        </div>
-        <br />
-        <div class="row">
-          <div class="col-md-2">09h30-9h45</div>
-          <div class="col-md-9">Openning</div>
         </div>
         <br />
         <div class="row">
