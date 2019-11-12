@@ -135,7 +135,7 @@ title: Programme
       <div class="row">
         <div class="col-md-2">18h00-21h00</div>
         <div class="col-md-9">Conference diner
-          <br />Le Grand Café de l'Univers, 11 Place de l'Hôtel de ville, 02100 Saint-Quentin</div>
+          <br />Ma Bel Epok, 110 Rue du Général Leclerc, 02100 Saint-Quentin</div>
       </div>
     </div>
 
