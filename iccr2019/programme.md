@@ -46,7 +46,8 @@ title: Programme
         <br />
         <div class="row">
           <div class="col-md-2">10h45-11h30</div>
-          <div class="col-md-9">Keynote: Ibrahim A. Hameed
+          <div class="col-md-9">Keynote: Louis Romain JOLY <br/>
+          Title: ROS for Railways
           </div>
         </div>
         <br />
