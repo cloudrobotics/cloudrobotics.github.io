@@ -87,8 +87,6 @@ title: Programme
       </div>
       <br />
 
-    </div>
-
   </div>
 </div>
 <br />
