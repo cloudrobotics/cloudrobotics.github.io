@@ -44,25 +44,26 @@ He helped to give the Pharo IoT workshops in Germany and Vietnam, for which he w
 
 
     <div class="col-md-10 push-md-2">
-        <h2 class="featurette-heading">Eric Lucet </h2>
-        <h3>Research Engineer</h3>
-        <h3>CEA-LIST, France </h3>
-        <p class="lead">
+        <h2 class="featurette-heading">
 
-            Eric Lucet (Ph.D) is Researcher in the field of mobile robotics modelization and control. He received the
-            Engineer, the Master and the Ph.D. degrees in mechanics, automatic control and signal processing in 2006
-            and 2010, respectively, from the engineer's schools ESTP and ENSAM, and from the University UPMC, Paris 6,
-            France. He joined the Robosoft service robots Company in 2006, first as PhD student, then as project
-            manager, being in charge of national and European research projects and scientific coordination. Since
-            2013, he is now continuing to actively participating to the research for the promotion of the mobile
-            robotics area in the Robotics Unit of the French Atomic Energy Commission (CEA).
+Ibrahim A. Hameed</h2>
+
+<h3>Professor, Deputy head of research and innovation, Head of the international master program in simulation & visualisation</h3>
+<h3>Norwegian University of Science and Technology  </h3>
+<p class="lead">
+
+         From March 2011 to December 2012 Ibrahim Hameed has been working as an Assistant Professor at Department of Industrial Electronics and Control Engineering, Menofia University, Egypt.
+
+He then joined the Department of Electronic Systems at Aalborg University, Denmark as a Postdoc at the section of Automation and Control in the period from January 2013 to August 2014 and at section of Signal and Information Processing in the period from September 2014 to May 2015.
+
+From Sep. 2018 to present Ibrahim Hameed works as a Professor at the Dept. of ICT and Natural Sciences at NTNU in Alesund.
 
         </p>
 
     </div>
     <div class="col-md-2 pull-md-10">
-        <img class="featurette-image img-thumbnail mx-auto" src="/images/2018/eric.jpg" alt="Eric Lucet">
-        <p><a href="https://fr.linkedin.com/in/eric-lucet-32671022" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
+        <img class="featurette-image img-thumbnail mx-auto" src="/images/2019/iha.jpg" alt="Eric Lucet">
+        <p><a href="https://www.ntnu.edu/employees/ibib" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
                     aria-hidden="true"></i></a></p>
     </div>
 
