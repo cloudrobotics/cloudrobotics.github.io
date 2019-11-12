@@ -7,28 +7,16 @@ title: Keynotes
 
     <div class="row featurette">
         <div class="col-md-10 push-md-2">
-            <h2 class="featurette-heading">Philippe Merle </h2>
-            <h3>Inria permanent researcher, Spirals research team</h3>
-            <h3>Inria Lille - Nord Europe, France </h3>
-            <p class="lead">Philippe Merle is senior researcher at Inria
-                since 2002 and is member of the Spirals research
-                team. He was associate professor at
-                University of Lille 1, France. He obtained a
-                PhD degree in computer science from University
-                of Lille 1. His research is about software
-                engineering for distributed systems, especially
-                cloud computing, service oriented computing,
-                middleware, model driven engineering,
-                and component-based software engineering. He
-                has co-authored two patents, two OMG specifications,
-                one book, 15 journal papers, and more than 70 international
-                conference papers.
+            <h2 class="featurette-heading">Robin Passama </h2>
+            <h3>CNRS research engineer in Robotics department</h3>
+            <h3>CNRS Montpellier, France </h3>
+            <p class="lead">Robin Passama is a research engineer at LIRMM laboratory (joint research unit between CNRS and University of Montpellier), France. He graduated in 2006 with a PhD Degree in computer science from the University of Montpellier. He then worked on many projects in Robotics Department of LIRMM until he became a permanent CNRS member in 2012. His main area of expertise is software engineering for robotics and he contributed to various experiments, particularly for medical and industrial applications.
             </p>
 
         </div>
         <div class="col-md-2 pull-md-10">
-            <img class="featurette-image img-thumbnail mx-auto" src="/images/keynote/merle.jpg" alt="Philippe Merle">
-            <p><a href="http://chercheurs.lille.inria.fr/~pmerle/" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
+            <img class="featurette-image img-thumbnail mx-auto" src="/images/2019/robin-passama.jpg" alt="Philippe Merle">
+            <p><a href="https://www.lirmm.fr/users/utilisateurs-lirmm/robin-passama" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
                         aria-hidden="true"></i></a></p>
         </div>
 
