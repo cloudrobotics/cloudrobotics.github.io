@@ -22,18 +22,22 @@ title: Keynotes
 
         <div class="col-md-10 push-md-2">
             <h2 class="featurette-heading">Frédéric COLLEDANI </h2>
-            <h3>Robotics Project Development</h3>
-            <h3>CEA-LIST, France </h3>
+            <h3>IoT engineer at INRIA Lille Nord Europe in RMoD team</h3>
+            <h3>Inria Lille, France </h3>
             <p class="lead">
 
 
-            Frédéric COLLEDANI is cobotics project manager, agricultural and food industry business development agricultural robotics expert for DG Connect exoskeleton control human - robot interaction, Expert Robot Start PME Specialties: Robot control Industrial project management.
+      Allex Oliveira is an IoT engineer at INRIA Lille Nord Europe in RMoD team (http://rmod.inria.fr).
+
+His interests are wireless networks, cybersecurity, internet of things, and management & monitoring systems.
+Allex participates in the Pharo community since 2018 and he works with Pharo IoT coding new tools.
+He helped to give the Pharo IoT workshops in Germany and Vietnam, for which he wrote the booklet "A PharoThings Tutorial" and improved the process for installing and using PharoThings IDE/Runtime.
 
 </p>
 
         </div>
         <div class="col-md-2 pull-md-10">
-            <img class="featurette-image img-thumbnail mx-auto" src="/images/2018/frederic.jpg" alt="Frédéric COLLEDANI">
+            <img class="featurette-image img-thumbnail mx-auto" src="/images/2019/allex.jfif" alt="Allex Oliveira">
             <p><a href="https://www.linkedin.com/in/fredericcolledani/?originalSubdomain=fr" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
                         aria-hidden="true"></i></a></p>
         </div>
