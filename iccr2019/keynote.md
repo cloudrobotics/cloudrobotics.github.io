@@ -21,8 +21,8 @@ title: Keynotes
         </div>
 
         <div class="col-md-10 push-md-2">
-            <h2 class="featurette-heading">Allex Oliveira </h2>
-            <h3>IoT engineer at INRIA Lille Nord Europe in RMoD team</h3>
+            <h2 class="featurette-heading">Steven Costiou and Allex Oliveira </h2>
+            <h3>Chercheur, IoT engineer at INRIA Lille Nord Europe in RMoD team</h3>
             <h3>Inria Lille, France </h3>
             <p class="lead">
 
