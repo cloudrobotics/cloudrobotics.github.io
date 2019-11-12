@@ -56,7 +56,7 @@ title: Programme
           <div class="col-md-9">Lunch</div>
         </div>
         <br />
-        <div class="row">
+         <div class="row">
           <div class="col-md-2">14h00-14h45</div>
           <div class="col-md-9">Keynote: Allex Oliveira<br />
             Title: Remote and live debugging of IOT applications: tools for researchers and developers.
@@ -64,12 +64,23 @@ title: Programme
         </div>
         <br />
         <div class="row">
-          <div class="col-md-2">15h00-15h30</div>
+          <div class="col-md-2">14h45-15h00</div>
           <div class="col-md-9">Coffee Break</div>
         </div>
         <br />
         <div class="row">
-          <div class="col-md-2">15h30-16h00</div>
+          <div class="col-md-2">15h00-15h45</div>
+          <div class="col-md-9">Keynote: Ibrahim A. Hameed
+          </div>
+        </div>
+        <br />
+        <div class="row">
+          <div class="col-md-2">15h45-16h00</div>
+          <div class="col-md-9">Coffee Break</div>
+        </div>
+        <br />
+        <div class="row">
+          <div class="col-md-2">16h00-17h00</div>
           <div class="col-md-9">Discussion collaboration
           </div>
         </div>
