@@ -48,14 +48,13 @@ title: Programme
        <div class="col-md-9">Coffee Break</div>
      </div>
      <br/>
-          <div class="row">
+    <div class="row">
        <div class="col-md-2">10h45-11h30</div>
-       <div class="col-md-9">Keynote: 
-Ibrahim A. Hameed,
-       <br /> </div>
+       <div class="col-md-9">Keynote: Ibrahim A. Hameed
+       </div>
     </div>
-        <br/>
-
+    <br/>
+    <div class="row">
        <div class="col-md-2">12h10-14h00</div>
        <div class="col-md-9">Lunch</div>
      </div>
@@ -68,6 +67,7 @@ Ibrahim A. Hameed,
 </div>
      </div>
     <br/>
+      <div class="row">
        <div class="col-md-2">15h00-15h30</div>
        <div class="col-md-9">Coffee Break</div>
      </div>
