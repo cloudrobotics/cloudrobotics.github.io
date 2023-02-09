@@ -55,7 +55,17 @@ full_base_url = custom_url %}
           {% endif %}
           " href="/iccr2022/keynote">Keynote</a>
         </li>
-        <li class="nav-item dropdown">
+
+        <li class="nav-item">
+          <a class="nav-link
+          {% if page.url == '/iccr2022/venue.html' %}
+            active
+          {% else %}
+          {% endif %}
+          " href="/iccr2022/venue">Venue</a>
+        </li>
+
+        <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">Registration</a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -63,7 +73,7 @@ full_base_url = custom_url %}
             <a class="dropdown-item" href="/iccr2022/venue">Venue </a>
             <a class="dropdown-item" href="/iccr2022/visa">Visa Information </a>
           </div>
-        </li>
+        </li> -->
         <!-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown" aria-haspopup="true"
             aria-expanded="false">Robomeeting</a>
