@@ -1,107 +1,19 @@
 ---
-layout: default
+layout: iccr2019
+title: ICCR2019
 ---
+**ICCR 2019: International Conference on Cloud and Robotics.**
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    <li data-target="#myCarousel" data-slide-to="1"></li>
-  </ol>
-  <div class="carousel-inner" role="listbox">
-    <div class="carousel-item active">
-      <img
-        class="first-slide"
-        src="{{ '/images/2019/sq1.jpg' }}"
-        alt="International conference on Cloud and Robotics"
-      />
-      <div class="container">
-        <div class="carousel-caption">
-          <div class="carousel-bg">
-            <h1>ICCR2022 7th International Conference on Cloud and Robotics</h1>
-            <h2>Mars. 06, Paris, France</h2>
-            <br />
-            <p>
-              <a
-                class="btn btn-lg btn-primary"
-                href="/iccr2019/registration"
-                role="button"
-                >Register today</a
-              >
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <img
-        class="second-slide"
-        src="{{ '/images/2019/sq2.jpg' }}"
-        alt="International conference on Cloud and Robotics"
-      />
-      <div class="container">
-        <div class="carousel-caption text-center">
-          <div class="carousel-bg">
-            <h1>
-              Co-organised with RoboMeeting, International robotics exhibition
-            </h1>
-            <h2>14 November 2019 Saint Quentin, France</h2>
-            <br />
-            <p>
-              <a
-                class="btn btn-lg btn-primary"
-                href="/iccr2019/robonumerique"
-                role="button"
-                >Learn more</a
-              >
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <!-- <div class="carousel-item">
-      <img class="third-slide" src="{{ '/images/saintquentin4.jpg' }}" alt="Third slide">
-      <div class="container">
-        <div class="carousel-caption d-none d-md-block text-right">
-          <h1>One more for good measure.</h1>
-          <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-          <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
-        </div>
-      </div>
-    </div> -->
-  </div>
-  <a
-    class="carousel-control-prev"
-    href="#myCarousel"
-    role="button"
-    data-slide="prev"
-  >
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a
-    class="carousel-control-next"
-    href="#myCarousel"
-    role="button"
-    data-slide="next"
-  >
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+<span style="color: blue">**Submitted to arXiv**</span>
 
-<!--
-  Marketing messaging and featurettes
-  ==================================================
--->
-<!--
-  Wrap the rest of the page in another container to center all the content.
--->
+
+### Preface
 
 The 6th edition of the International Conference on Cloud and Robotics (ICCR 2019
 - https://cloudrobotics.info) will be held on November 13-14 2019 in
 Saint-Quentin, France. The conference is a co-event with the industry exposition
-Robonumerique (https://www.robomeetings.fr). <br />
-<br />
+Robonumerique (https://www.robomeetings.fr). 
+
 
 The domain of cloud robotics aims to converge robots with computation, storage
 and communication resources provided by the cloud. The cloud may complement
@@ -116,10 +28,12 @@ in other research areas, Cloud Robotics aims at building bridges among experts
 from academia and industry working in different fields, such as robotics,
 cyber-physical systems, automotive, aerospace, machine learning, artificial
 intelligence, software architecture, big data analytics, Internet-of-Things,
-networked control and distributed cloud systems. <br />
-<br />
+networked control and distributed cloud systems. 
+
+
 The conference is organizing two special sessions: one on Robotics in medicine,
 as well as one industry session.
+---
 
 <hr class="featurette-divider" />
 
