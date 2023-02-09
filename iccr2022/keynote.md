@@ -16,7 +16,7 @@ title: Keynotes
         </div>
         <div class="col-md-2 pull-md-10">
             <img class="featurette-image img-thumbnail mx-auto" src="/images/2022/Zhongkui-Wang.jpeg" alt="Philippe Merle">
-            <p><a href="https://www.lirmm.fr/users/utilisateurs-lirmm/robin-passama" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
+            <p><a href="https://research-db.ritsumei.ac.jp/rithp/k03/resid/S000905?lang=en" class="btn btn-default" role="button"><i class="fa fa-user fa-2x"
                         aria-hidden="true"></i></a></p>
         </div>
 
