@@ -21,7 +21,6 @@ title: Programme
 
   <div class="card">
     <div class="card-header">
-      Day 1
       <h3>March. 6, CEA, Paris
       </h3>
     </div>
