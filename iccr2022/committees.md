@@ -9,4 +9,4 @@ title: Committee
 
 Huaxi (Yulin) Zhang, University of Picardie Jules Verne, France
 
-Frederic Colledani, CEA-List, Paris
+Frederic Colledani, CEA-List, Paris, France
