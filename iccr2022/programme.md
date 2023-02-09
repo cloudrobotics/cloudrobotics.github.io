@@ -22,20 +22,20 @@ title: Programme
   <div class="card">
     <div class="card-header">
       Day 1
-      <h3>Nov. 13, INSSET/UPJV, 48 Rue d'Ostende, Saint Quentin
+      <h3>March. 6, CEA, Paris
       </h3>
     </div>
     <div class="card-block">
       <div class="container">
         <div class="row">
-          <div class="col-md-2">09h00-09h45</div>
+          <div class="col-md-2">09h30-10h00</div>
           <div class="col-md-9">Reception</div>
         </div>
         <br />
         <div class="row">
-          <div class="col-md-2">9h45-10h30</div>
-          <div class="col-md-9">Keynote: Robin Passama<br />
-            Title: Programming a cobot by teaching : work in progress and how cloud computing could help in the future
+          <div class="col-md-2">10h0-10h45</div>
+          <div class="col-md-9">Keynote: Wang Zhongkui<br />
+            Title: Soft Robotics Approach for the Food Industry Automation
           </div>
         </div>
         <br />
@@ -97,50 +97,6 @@ title: Programme
   </div>
 </div>
 <br />
-
-<div class="card">
-  <div class="card-header">
-    Day 2
-    <h3>Nov. 14, Palais des sports, Avenue de Remicourt</h3>
-  </div>
-  <div class="card-block">
-    <div class="container">
-      <br />
-      <div class="row">
-        <div class="col-md-2">9h00-09h30</div>
-        <div class="col-md-9">Openning Robomeeting</div>
-      </div>
-      <br />
-      <div class="row">
-        <div class="col-md-2">09h30-11h00</div>
-        <div class="col-md-9">Guided Visit</div>
-      </div>
-      <br />
-      <div class="row">
-        <div class="col-md-2">11h00-12h00</div>
-        <div class="col-md-9">Free visit</div>
-      </div>
-      <br />
-      <div class="row">
-        <div class="col-md-2">12h00-14h00</div>
-        <div class="col-md-9">Lunch</div>
-      </div>
-      <br />
-      <div class="row">
-        <div class="col-md-2">14h00-16h30</div>
-        <div class="col-md-9">Discussion on Future Cloud Robotics</div>
-      </div>
-      <br />
-
-      <div class="row">
-        <div class="col-md-2">18h00-21h00</div>
-        <div class="col-md-9">Conference diner
-          <br />Ma Bel Epok, 110 Rue du Général Leclerc, 02100 Saint-Quentin</div>
-      </div>
-    </div>
-
-  </div>
-  <br />
 
 </div>
 </div>
