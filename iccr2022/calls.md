@@ -73,4 +73,3 @@ Topics of interest include, but are not necessarily limited to:
   transportation, security and surveillance, precision agriculture,
   smart grids, smart cities and others.
 
----
