@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ICCR2022
+title: ICCR2023
 email: yulin.zhang@u-picardie.fr
 description: International Conference on Cloud and Robotics, Nov. 13-14, Saint Quentin, France
 baseurl: '' # the subpath of your site, e.g. /blog
