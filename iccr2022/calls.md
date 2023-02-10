@@ -5,7 +5,7 @@ title: Call For Participation
 
 >
 
-The 6th edition of the International Conference on Cloud and Robotics (ICCR 2022 - https://cloudrobotics.info) will be held on March 06 2022 in Paris, France.
+The 7th edition of the International Conference on Cloud and Robotics (ICCR 2022 - https://cloudrobotics.info) will be held on March 06 2022 in Paris, France.
 
 The domain of cloud robotics aims to converge robots with computation,
 storage and communication resources provided by the cloud. The cloud
