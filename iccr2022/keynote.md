@@ -23,4 +23,15 @@ His research interests include soft robotics, robotic end-effector, grasping and
                         aria-hidden="true"></i></a></p>
         </div>
 
+    <p class="lead">
+    Title: Soft Robotics Approach for Food Industry Automation
+
+</p> 
+
+    <p class="lead">
+Automation using robots is highly demanded in the food industry and agriculture in Japan due to the labor shortage in recent years. There are several challenges while introducing robotic system into the food industry and agriculture, such as the recognition of food materials in a bin-picking scenario, handling food materials with large variations in shape, size, and physical properties, and handling at high-speed motion and low-cost system request. In this talk, a national project for improving automation and IoT technologies in the food industry and agriculture will be introduced and several robotic systems that developed in our group for handling food and agricultural products will be presented. Particularly, we took the advantages of soft robotics approach to develop various kinds of robotic end-effectors, which will be explained in detail together with test results from our industrial partners. In addition, a database of food properties for robotic handling will be presented for facilitating the development of robotic end-effectors for food handling.
+
+
+</p>    
+
 </div>
