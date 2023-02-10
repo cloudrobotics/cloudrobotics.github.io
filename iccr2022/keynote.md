@@ -16,8 +16,8 @@ title: Keynotes
 His research interests include soft robotics, robotic end-effector, grasping and manipulation, biomedical engineering, and tactile sensing. He is an associate editor of IEEE Robotics and Automation Letters, a member of the editorial board of the Chinese Journal of Mechanical Engineering, the topics board of the Actuators, and a committee member of several IEEE conferences (IROS, ROBIO, RCAR, UR, WRC SARA, ARM, WCICA, ISR, HAVE). His work was awarded best papers at international conferences of UR2020, RCAR2018, and M2VIP2017.
             </p>
 
-             <p class="lead">
-    Keynote Title: Soft Robotics Approach for Food Industry Automation
+             <p class="lead"><b>
+    Keynote Title: Soft Robotics Approach for Food Industry Automation</b>
 
 </p> 
 
