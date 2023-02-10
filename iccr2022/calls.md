@@ -5,7 +5,7 @@ title: Call For Participation
 
 >
 
-The 6th edition of the International Conference on Cloud and Robotics (ICCR 2019 - https://cloudrobotics.info) will be held on November 13-14 2019 in Saint-Quentin, France. The conference is a co-event with GDR ALROB and the industry exposition Robonumerique (https://www.robomeetings.fr).
+The 6th edition of the International Conference on Cloud and Robotics (ICCR 2022 - https://cloudrobotics.info) will be held on March 06 2022 in Paris, France.
 
 The domain of cloud robotics aims to converge robots with computation,
 storage and communication resources provided by the cloud. The cloud
