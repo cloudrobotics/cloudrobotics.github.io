@@ -10,9 +10,9 @@ title: Keynotes
             <h2 class="featurette-heading">WANG Zhongkui </h2>
             <h3>Department of Robotics </h3>
             <h3>Ritsumeikan University, Japan </h3>
-            <p class="lead">Dr. Zhongkui Wang received his Ph.D. degree in Robotics from Ritsumeikan University, in 2011. He was a research associate and a postdoctoral fellow in the same University from 2011 to 2014. During 2012to 2013, he visited the Swiss Federal Institute of Technology Zurich (ETHZ) as a guest researcher. From 2014 to 2019, he was an assistant professor in the Department of Robotics of Ritsumeikan University, and from 2019 to 2022, he was an associate professor in the Research Organization of Science and Technology of Ritsumeikan University. From 2022, he became an associate professor in the Department of Robotics of Ritsumeikan University.
+            <p class="lead"> Dr. Zhongkui Wang received his Ph.D. degree in Robotics from Ritsumeikan University, in 2011. He was a research associate and a postdoctoral fellow in the same University from 2011 to 2014. During 2012to 2013, he visited the Swiss Federal Institute of Technology Zurich (ETHZ) as a guest researcher. From 2014 to 2019, he was an assistant professor in the Department of Robotics of Ritsumeikan University, and from 2019 to 2022, he was an associate professor in the Research Organization of Science and Technology of Ritsumeikan University. From 2022, he became an associate professor in the Department of Robotics of Ritsumeikan University.</p>
 
-
+<p>
 His research interests include soft robotics, robotic end-effector, grasping and manipulation, biomedical engineering, and tactile sensing. He is an associate editor of IEEE Robotics and Automation Letters, a member of the editorial board of the Chinese Journal of Mechanical Engineering, the topics board of the Actuators, and a committee member of several IEEE conferences (IROS, ROBIO, RCAR, UR, WRC SARA, ARM, WCICA, ISR, HAVE). His work was awarded best papers at international conferences of UR2020, RCAR2018, and M2VIP2017.
             </p>
 
