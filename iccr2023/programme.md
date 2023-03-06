@@ -33,7 +33,7 @@ title: Programme
         <br />
         <div class="row">
           <div class="col-md-2">10h45-12h00</div>
-          <div class="col-md-9">Keynote: Wang Zhongkui<br />
+          <div class="col-md-9">Keynote: PR. Wang Zhongkui<br />
             Title: Soft Robotics Approach for the Food Industry Automation
           </div>
         </div>
@@ -53,7 +53,7 @@ title: Programme
         <br />
         <div class="row">
           <div class="col-md-2">15h00-16h00</div>
-          <div class="col-md-9">Keynote: Dingguo ZHANG <br/>
+          <div class="col-md-9">Keynote: PR. Dingguo ZHANG <br/>
             Title: Non-invasive versus Invasuve Brain-Computer Interfaces.
 
           </div>
@@ -69,7 +69,6 @@ title: Programme
           <div class="col-md-9">Discussion collaboration
           </div>
         </div>
-        <br />
       </div>
       <br />
       <div class="row">
